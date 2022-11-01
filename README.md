@@ -5,6 +5,7 @@ CMU - Telling Stories with Data
 My name is Christy. I'm an MISM Global student. I decided to take the global pathway to study in Australia and the United States because it is an exciting intercontinental option. By studying at two campuses on two hemispheres, I can access a global network of professors, experts, classmates, and alumni. I will have an intercontinental learning experience that will help me develop a holistic perspective. 
 
 Below picture was where I studied in Australia. After I finished my first year studying at the Australian campus, I am here at Carnegie Mellon University in Pittsburgh, Pennsylvania to complete my master’s degree in the United States.
+
 <img src="https://user-images.githubusercontent.com/116990977/198948699-526a6296-aaad-4cdb-a821-0366421dc592.jpg" width="150"/>
 
 Recently, I’m interested in astrology and learning more about myself, others, and the world around me. Uncovering someone’s astrology helps me better understand how they like to be communicated with, and how they like to communicate.
