@@ -1,17 +1,16 @@
 # Portfolio
-Public portfolio for Telling Stories with Data at CMU
-
+CMU - Telling Stories with Data
 
 # About me
 My name is Christy. I'm a MISM Global student. I decided to take the global pathway to study in Australia and the United States because it is an exciting intercontinental option. By studying at two campuses in two hemispheres, I can access a global network of professors, experts, classmates, and alumni. I will have an intercontinental learning experience that will help me develop a holistic perspective. 
 
-The picture on the left below was the where I studied in Australia. After finishing my first year studying at the Australian campus, I am here at the Carnegie Mellon University in Pittsburgh, Pennsylvania to complete my master’s degree in the United States. 
+The below picture was where I studied in Australia. After I finished my first year studying at the Australian campus, I am here at the Carnegie Mellon University in Pittsburgh, Pennsylvania to complete my master’s degree in the United States. 
 <img src="https://user-images.githubusercontent.com/116990977/198948699-526a6296-aaad-4cdb-a821-0366421dc592.jpg" width="150"/>
 
-I’m interested in astrology and learning more about myself, others, and the world around me. Uncovering someone’s astrology helps me better understand how they like to be communicated with, and how they like to communicate.
+Recently, I’m interested in astrology and learning more about myself, others, and the world around me. Uncovering someone’s astrology helps me better understand how they like to be communicated with, and how they like to communicate.
 
 # What I hope to learn
-
+I hope to become a data analyst that is able to provide valuable insights for clients achieving their goals, and therefore I am looking forward to learning about designing data visualizations as well as explaining and presenting data supported by related narrative using software such as Tableau. Also, I am interested in learning about building an online portfolio using platform such as Github, combining the techniques and methods I will learn from this class to make my portfolio stand out from other candinates. Besides, I hope to build up a certain level of critique standards to continue to improve my data visualizations in the future. 
 
 # Portfolio
 ## Visualizing government debt
