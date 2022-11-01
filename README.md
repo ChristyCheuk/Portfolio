@@ -7,8 +7,8 @@ My name is Christy. I'm a MISM Global student. I decided to take the global path
 
 After finishing my first year studying at the Australian campus, I will go to the Carnegie Mellon University in Pittsburgh, Pennsylvania to complete my master’s degree in the United States. 
 
-<img src="https://user-images.githubusercontent.com/116990977/198948699-526a6296-aaad-4cdb-a821-0366421dc592.jpg" width="150"/> 
-Australian Campus
+| Australian Campus | <img src="https://user-images.githubusercontent.com/116990977/198948699-526a6296-aaad-4cdb-a821-0366421dc592.jpg" width="150"/> |
+
 
 <img src="https://user-images.githubusercontent.com/116990977/199159212-109dac12-1ce5-4ac4-8e12-7709206a8d85.jpg" width="200"/> 
 Pittsburgh Campus 
