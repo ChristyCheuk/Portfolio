@@ -1,4 +1,4 @@
-# Portfolio
+# portfolio
 Public portfolio for Telling Stories with Data at CMU
 
 # About me
@@ -8,7 +8,7 @@ Below picture was where I studied in Australia. After I finished my first year s
 
 <img src="https://user-images.githubusercontent.com/116990977/198948699-526a6296-aaad-4cdb-a821-0366421dc592.jpg" width="150"/>
 
-Recently, I’m interested in astrology and learning more about myself, others, and the world around me. Uncovering someone’s astrology helps me better understand how they like to be communicated with, and how they like to communicate.
+Recently, I’m interested in astrology. Uncovering someone’s astrology is a way for me to learn more about myself and others by figuring out how to better communicate with each other. 
 
 # What I hope to learn
 I hope to become a data analyst that is able to provide valuable insights for clients achieving their goals, and therefore I am looking forward to learning about designing data visualizations as well as explaining and presenting data supported by related narratives using software such as Tableau. Also, I am interested in learning about building an online portfolio using a platform such as Github, combining the techniques and methods I will learn from this class to make my portfolio stand out from other candidates. Besides, I hope to build up a certain level of critique standards for myself to continue to improve my data visualizations in the future. 
@@ -16,7 +16,6 @@ I hope to become a data analyst that is able to provide valuable insights for cl
 # Portfolio
 ## Data visualization critique 
 [Data visualization critique](https://docs.google.com/spreadsheets/d/1m4KejSpVYsY0bVbTuGnZ5IqE1TTPp8nr/edit?usp=sharing&ouid=113615484674101933870&rtpof=true&sd=true)
-
 ## Visualizing government debt
 ## Critique by design
 ## Final project
