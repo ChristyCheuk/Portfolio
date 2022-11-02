@@ -1,4 +1,4 @@
-# portfolio
+# christycheukportfolio
 Public portfolio for Telling Stories with Data at CMU
 
 # About me
