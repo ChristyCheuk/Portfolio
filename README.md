@@ -14,6 +14,7 @@ Recently, I’m interested in astrology and learning more about myself, others, 
 I hope to become a data analyst that is able to provide valuable insights for clients achieving their goals, and therefore I am looking forward to learning about designing data visualizations as well as explaining and presenting data supported by related narratives using software such as Tableau. Also, I am interested in learning about building an online portfolio using a platform such as Github, combining the techniques and methods I will learn from this class to make my portfolio stand out from other candidates. Besides, I hope to build up a certain level of critique standards to continue to improve my data visualizations in the future. 
 
 # Portfolio
+## Data visualization critique[Christy Cheuk - Critique #1_ FITARA and CNBC graphics (The Good Charts Matrix).xlsx](https://github.com/ChristyCheuk/Portfolio/files/9914860/Christy.Cheuk.-.Critique.1_.FITARA.and.CNBC.graphics.The.Good.Charts.Matrix.xlsx)
 ## Visualizing government debt
 ## Critique by design
 ## Final project
