@@ -1,5 +1,5 @@
-# christycheukportfolio
-Public portfolio for Telling Stories with Data at CMU
+# portfolio
+This is my public portfolio for Telling Stories with Data at CMU!
 
 # About me
 My name is Christy. I'm an MISM Global student. I decided to take the global pathway to study in Australia and the United States because it is an exciting intercontinental option. By studying at two campuses on two hemispheres, I can access a global network of professors, experts, classmates, and alumni. I will have an intercontinental learning experience that will help me develop a holistic perspective. 
