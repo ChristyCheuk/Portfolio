@@ -14,7 +14,7 @@ Recently, I’m interested in astrology and learning more about myself, others, 
 I hope to become a data analyst that is able to provide valuable insights for clients achieving their goals, and therefore I am looking forward to learning about designing data visualizations as well as explaining and presenting data supported by related narratives using software such as Tableau. Also, I am interested in learning about building an online portfolio using a platform such as Github, combining the techniques and methods I will learn from this class to make my portfolio stand out from other candidates. Besides, I hope to build up a certain level of critique standards for myself to continue to improve my data visualizations in the future. 
 
 # Portfolio
-## [Data visualization critique]
+## [Data visualization critique https://docs.google.com/spreadsheets/d/1m4KejSpVYsY0bVbTuGnZ5IqE1TTPp8nr/edit?usp=sharing&ouid=113615484674101933870&rtpof=true&sd=true]
 
 ## Visualizing government debt
 ## Critique by design
