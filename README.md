@@ -26,19 +26,14 @@ I hope to become a data analyst that is able to provide valuable insights for cl
 <iframe src='https://flo.uri.sh/visualisation/11731734/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11731734/?utm_source=embed&utm_campaign=visualisation/11731734' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 ### 2021 Government Debt-to-GDP Ratio Column Charts
-In addition to putting on a clear headline and x-axis and y-axis labels, I put a two-line description in smaller type under the headline to briefly add on what government debt-to-GDP ratio is and why it is important in order to help the audience have a better understanding of the chart. I also highlighted the top 10 countries that had the highest debt-to-GDP ratio and made the rest grey so that the audience can focus on, and if they would like to filter out or choose a specific country, I also turned on legend mode so they can simply click on the boxes above the column charts.
+In addition to putting on a clear headline and x-axis and y-axis labels, I put a two-line description in the smaller type under the headline to briefly add on what government debt-to-GDP ratio is and why it is important in order to help the audience have a better understanding of the chart. I also highlighted the top 10 countries that had the highest debt-to-GDP ratio and made the rest grey so that the audience can focus on the highest ones, and if they would like to filter out or choose a specific country, I also turned on legend mode so they can simply click on the boxes above the column charts.
 
 <iframe src='https://flo.uri.sh/visualisation/11733612/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11733612/?utm_source=embed&utm_campaign=visualisation/11733612' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-### Comparsion
-<!-- Finally, use Markdown to write a paragraph or two about the different methods of visualization, and 
-how they compare / contrast to one another. 
-Make sure you include all source information and explain the data well.  
-Talk about why you chose the third data visualization.  -->
+### Comparison
+Bar charts and column charts are two of the most effective tools to visualize data in a readable and understandable format. Compared to bar charts which are better used for representing a vast amount of data with lengthy labels such as how it looks in the Government Debt Bar Chart, column charts are better used for comparing different values. I chose column charts also because it was one of the most accessible charts to compare the government debt-to-GDP ratio from the highest to the lowest so that it could provide the audience a quick sense of the ratio among countries, such as which countries have the highest and the lowest ratios. 
 
-Line charts are ideal for showing changing time series as well as trends and developments over time. 
-Bar charts are good for comparing size, especially on small screens.
-Similar to bar charts, I chose column charts becuase they were an effective tool to compare the difference between values. 
+Line charts are better used for representing changing times series or trends and developments. Compared to bar and column charts which are better used for comparing larger changes, line charts are better used for smaller changes over time.
 
 ## Critique by design
 
