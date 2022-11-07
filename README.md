@@ -19,6 +19,6 @@ I hope to become a data analyst that is able to provide valuable insights for cl
 ## Visualizing government debt
 [Visualizing government debt](/dataviz2.md)
 ## Flourish
-[Flourish] (https://public.flourish.studio/visualisation/11731734/)
+[Flourish](https://public.flourish.studio/visualisation/11731734/)
 ## Critique by design
 ## Final project
