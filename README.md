@@ -18,6 +18,7 @@ I hope to become a data analyst that is able to provide valuable insights for cl
 [Data visualization critique](https://docs.google.com/spreadsheets/d/1m4KejSpVYsY0bVbTuGnZ5IqE1TTPp8nr/edit?usp=sharing&ouid=113615484674101933870&rtpof=true&sd=true)
 ## Visualizing government debt
 [Visualizing government debt](/dataviz2.md)
-[Flourish](<div class="flourish-embed flourish-chart" data-src="visualisation/11731734"><script src="https://public.flourish.studio/resources/embed.js"></script></div>)
+[Flourish]
+<div class="flourish-embed flourish-chart" data-src="visualisation/11731734"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 ## Critique by design
 ## Final project
