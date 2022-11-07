@@ -17,5 +17,6 @@ I hope to become a data analyst that is able to provide valuable insights for cl
 ## Data visualization critique 
 [Data visualization critique](https://docs.google.com/spreadsheets/d/1m4KejSpVYsY0bVbTuGnZ5IqE1TTPp8nr/edit?usp=sharing&ouid=113615484674101933870&rtpof=true&sd=true)
 ## Visualizing government debt
+[Visualizing government debt](/dataviz2.md)
 ## Critique by design
 ## Final project
