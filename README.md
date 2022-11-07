@@ -22,11 +22,23 @@ I hope to become a data analyst that is able to provide valuable insights for cl
 [Government Debt Bar Chart](/dataviz2.md)
 <iframe src="https://data.oecd.org/chart/6SlB" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</iframe>
 
-#### 1995 - 2021 Government Debt-to-GDP Ratio Grid of Line Charts
+### 1995 - 2021 Government Debt-to-GDP Ratio Grid of Line Charts
 <iframe src='https://flo.uri.sh/visualisation/11731734/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11731734/?utm_source=embed&utm_campaign=visualisation/11731734' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-#### 2021 Government Debt-to-GDP Ratio Bar Chart
+### 2021 Government Debt-to-GDP Ratio Column Charts
+In addition to putting on a clear headline and x-axis and y-axis labels, I put a two-line description in smaller type under the headline to briefly add on what government debt-to-GDP ratio is and why it is important in order to help the audience have a better understanding of the chart. I also highlighted the top 10 countries that had the highest debt-to-GDP ratio and made the rest grey so that the audience can focus on, and if they would like to filter out or choose a specific country, I also turned on legend mode so they can simply click on the boxes above the column charts.
+
 <iframe src='https://flo.uri.sh/visualisation/11733612/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11733612/?utm_source=embed&utm_campaign=visualisation/11733612' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+### Comparsion
+<!-- Finally, use Markdown to write a paragraph or two about the different methods of visualization, and 
+how they compare / contrast to one another. 
+Make sure you include all source information and explain the data well.  
+Talk about why you chose the third data visualization.  -->
+
+Line charts are ideal for showing changing time series as well as trends and developments over time. 
+Bar charts are good for comparing size, especially on small screens.
+Similar to bar charts, I chose column charts becuase they were an effective tool to compare the difference between values. 
 
 ## Critique by design
 
