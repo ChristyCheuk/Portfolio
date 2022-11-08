@@ -19,7 +19,7 @@ I hope to become a data analyst that is able to provide valuable insights for cl
 
 ## Visualizing government debt
 ### Government Debt Bar Chart
-It represents the government debt-to-GDP ratio from the lowest to the highest so that it could provide the audience with a quick sense, such as Estonia had the lowest and Japan had the highest ratios.
+It represents the government debt-to-GDP ratio from the lowest to the highest so that it could provide the audience with a quick sense, such as Estonia had the lowest ratios and Japan had the highest.
 
 [Government Debt Bar Chart](/dataviz2.md)
 
@@ -34,7 +34,7 @@ In addition to putting on a clear headline and x-axis and y-axis labels, I put a
 [2021 Top 10 Highest Government Debt-to-GDP Ratio Pie Chart](/dataviz2.md)
 
 ### Comparison
-A bar chart is one of the most effective tools to visualize data in a readable and understandable format. A bar chart is better used for representing a vast amount of data and comparing different values. The Government Debt Bar Chart represents the government debt-to-GDP ratio from the lowest to the highest so that it could provide the audience with a quick sense, such as Estonia had the lowest and Japan had the highest ratios.
+A bar chart is one of the most effective tools to visualize data in a readable and understandable format. A bar chart is better used for representing a vast amount of data and comparing different values. The Government Debt Bar Chart represents the government debt-to-GDP ratio from the lowest to the highest so that it could provide the audience with a quick sense, such as Estonia had the lowest ratios and Japan had the highest.
 
 Compared to a bar chart which is better used for larger changes, a line chart is better used for representing changing trends and developments over time. The 1995 - 2021 Government Debt-to-GDP Ratio Line Chart represents the changes in the debt-to-GDP ratio of all the countries over the past 20+ years, so it is easier for the audience to see the changes at one time. For example, Spain had the shortest period of government debt-to-GDP ratio.
 
