@@ -4,5 +4,5 @@
 # 1995 - 2021 Government Debt-to-GDP Ratio Line Chart
 <div class="flourish-embed flourish-chart" data-src="visualisation/11731734"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# 2021 The Top 10 Highest Government Debt-to-GDP Ratio Pie Chart
+# 2021 Top 10 Highest Government Debt-to-GDP Ratio Pie Chart
 <div class="flourish-embed flourish-chart" data-src="visualisation/11733612"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
