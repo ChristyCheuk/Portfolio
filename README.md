@@ -35,6 +35,8 @@ Bar charts and column charts are two of the most effective tools to visualize da
 
 Line charts are better used for representing changing times series or trends and developments. Compared to bar and column charts which are better used for comparing larger changes, line charts are better used for smaller changes over time.
 
+Source: OECD (2022), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 07 November 2022)
+
 ## Critique by design
 
 ## Final project
