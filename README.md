@@ -28,10 +28,10 @@ It represents the changes in the debt-to-GDP ratio of all the countries over the
 
 [1995 - 2021 Government Debt-to-GDP Ratio Line Chart](/dataviz2.md)
 
-### 2021 The Top 10 Highest Government Debt-to-GDP Ratio Pie Chart
+### 2021 Top 10 Highest Government Debt-to-GDP Ratio Pie Chart
 In addition to putting on a clear headline and x-axis and y-axis labels, I put a two-line description in the smaller type under the headline to briefly add on what government debt-to-GDP ratio is and why it is important in order to help the audience have a better understanding of the chart. I also highlighted the top 10 countries that had the highest debt-to-GDP ratio in red and made the rest grey so that the audience can focus on the highest ones. If they would like to filter out or choose one or a number of specific countries, I also turned on the legend mode so they can simply click on the boxes above the chart.
 
-[2021 The Top 10 Highest Government Debt-to-GDP Ratio Pie Chart](/dataviz2.md)
+[2021 Top 10 Highest Government Debt-to-GDP Ratio Pie Chart](/dataviz2.md)
 
 ### Comparison
 A bar chart is one of the most effective tools to visualize data in a readable and understandable format. A bar chart is better used for representing a vast amount of data and comparing different values. The Government Debt Bar Chart represents the government debt-to-GDP ratio from the lowest to the highest so that it could provide the audience with a quick sense, such as which countries have the lowest and the highest ratios.
