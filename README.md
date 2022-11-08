@@ -18,13 +18,13 @@ I hope to become a data analyst that is able to provide valuable insights for cl
 [Data visualization critique](https://docs.google.com/spreadsheets/d/1m4KejSpVYsY0bVbTuGnZ5IqE1TTPp8nr/edit?usp=sharing&ouid=113615484674101933870&rtpof=true&sd=true)
 
 ## Visualizing government debt
-### Government Debt Bar Chart
-The Government Debt Bar Chart represents the government debt-to-GDP ratio from the lowest to the highest so that it could provide the audience with a quick sense, such as which countries have the lowest and the highest ratios.
+### Government Debt Bar Charts
+It represents the government debt-to-GDP ratio from the lowest to the highest so that it could provide the audience with a quick sense, such as which countries have the lowest and the highest ratios.
 
 [Government Debt Bar Chart](/dataviz2.md)
 
-### 1995 - 2021 Government Debt-to-GDP Ratio Grid of Line Charts
-The 1995 - 2021 Government Debt-to-GDP Ratio Grid of Line Charts represents the changes in the debt-to-GDP ratio of all the countries over the past 20+ years using the discrete distribution, so it is easier for the audience to see the changes at one time.
+### 1995 - 2021 Government Debt-to-GDP Ratio Line Charts
+It represents the changes in the debt-to-GDP ratio of all the countries over the past 20+ years using the discrete distribution, so it is easier for the audience to see the changes at one time.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11731734"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -38,7 +38,7 @@ Bar charts are one of the most effective tools to visualize data in a readable a
 
 Compared to bar charts which are better used for larger changes, line charts are better used for representing changing trends and developments over time. The 1995 - 2021 Government Debt-to-GDP Ratio Grid of Line Charts represents the changes in the debt-to-GDP ratio of all the countries over the past 20+ years using the discrete distribution so it is easier for the audience to see the changes at one time.
 
-Compared to bar charts which are better used for category comparison or line charts which are better used for representing trends over time, a pie chart is better used for showing how a whole is comprised of different parts. I chose the pie chart because I wanted to know the percentage of the top 10 countries with the highest government debt-to-GDP ratio as a percentage of the countries around the world. With the pie chart, I found that the top 10 countries that had the highest government debt-to-GDP ratio occupied over 50% of the total debt-to-GDP ratio in the world. In other words, the top 10 countries had more government debt-to-GDP ratio than the sum of the government debt-to-GDP ratio of the rest of the countries. 
+Compared to bar charts which are better used for category comparison or line charts which are better used for representing trends over time, a pie chart is better used for showing the relationship betwen a whole and its parts. I chose the pie chart because I wanted to know the percentage of the top 10 countries with the highest government debt-to-GDP ratio as a percentage of the countries around the world. With the pie chart, I found that the top 10 countries that had the highest government debt-to-GDP ratio occupied over 50% of the total debt-to-GDP ratio. In other words, the top 10 countries had more government debt-to-GDP ratio than the sum of the government debt-to-GDP ratio of the rest of the countries. 
 
 Source: OECD (2022), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 07 November 2022)
 
