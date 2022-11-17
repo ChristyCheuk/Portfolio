@@ -26,6 +26,8 @@ I came up with making changes to colors, adding numbers, and descriptions.
 
 ### Solution
 #### Original design
+I chose this visualization because I was impressed by the creativity of using avocado toasts instead of money to show how expensive or inexpensive an apartment can be. It is an interesting visualization to look at. I like its colors and how it tries to make everything concrete by putting avocado toast, a dollar bill, and the iconic buildings of the cities. In addition, the housing market is usually a dull topic for me. Using avocado toasts instead of traditional charts can not only bring in a new perspective of how the home prices are like nowadays but also makes it more related to my daily life and therefore attract me to learn more about it. Another reason I chose this visualization is that I wanted to make it more comparable. The visualization was divided into five parts. I had to scroll up and down to go through the entire visualization and to make comparisons between different countries.
+
 ![1](https://user-images.githubusercontent.com/116990977/202356011-597259a9-1d78-40c9-b4b3-aed49c3d277e.png)
 ![2](https://user-images.githubusercontent.com/116990977/202356018-27e26cf2-917c-46b2-a47a-b3a5c157f9b0.png)
 ![3](https://user-images.githubusercontent.com/116990977/202356026-18fc971e-870b-4ff7-af07-1f98ddaf01c0.png)
@@ -33,8 +35,6 @@ I came up with making changes to colors, adding numbers, and descriptions.
 ![5](https://user-images.githubusercontent.com/116990977/202356040-eee5d347-704c-4d72-bf9e-6c84c0e026a6.png)
 
 Source: “The Avocado Toast Index: How Many Breakfasts to Buy a House?” BBC Worklife, BBC, https://www.bbc.com/worklife/article/20170530-the-avocado-toast-index-how-many-breakfasts-to-buy-a-house.
-
-I chose this visualization because I was impressed by the creativity of using avocado toasts instead of money to show how expensive or inexpensive an apartment can be. It is an interesting visualization to look at. I like its colors and how it tries to make everything concrete by putting avocado toast, a dollar bill, and the iconic buildings of the cities. In addition, the housing market is usually a dull topic for me. Using avocado toasts instead of traditional charts can not only bring in a new perspective of how the home prices are like nowadays but also makes it more related to my daily life and therefore attract me to learn more about it. Another reason I chose this visualization is that I wanted to make it more comparable. The visualization was divided into five parts. I had to scroll up and down to go through the entire visualization and to make comparisons between different countries.
 
 #### Insights
 Based on the feedback, I made some changes:
