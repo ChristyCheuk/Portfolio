@@ -39,67 +39,7 @@ Compared to a bar chart which is better used for category comparison or a line c
 Source: OECD (2022), General government debt (indicator). doi: 10.1787/a0528cc2-en(Accessed on 07 November 2022)
 
 ## Critique by design
-### Sketch
-![Sketch](https://user-images.githubusercontent.com/116990977/202217432-7ae0c699-99ed-4902-a9ad-c44784927c65.png)
+[Critique by design]()
 
-Source: “The Avocado Toast Index: How Many Breakfasts to Buy a House?” BBC Worklife, BBC, https://www.bbc.com/worklife/article/20170530-the-avocado-toast-index-how-many-breakfasts-to-buy-a-house. 
-
-### Feedback
-#### Audlt, late 50's
-##### Can you tell me what you think this is?
-
-##### Can you describe to me what this is telling you?
-
-##### Is there anything you find surprising or confusing?
-
-##### Who do you think is the intended audience for this?
-
-##### Is there anything you would change or do differently?
-
-#### Student, mid 20's
-##### Can you tell me what you think this is?
-
-##### Can you describe to me what this is telling you?
-
-##### Is there anything you find surprising or confusing?
-
-##### Who do you think is the intended audience for this?
-
-##### Is there anything you would change or do differently?
-
-#### Insights
-insights you gained from the critique method, 
-what it led you to think about when considering the redesign.
-how you moved next to the sketches, 
-any insights you gleaned from your user feedback.  
-
-
-
-
-
-### Final Design
-Document what you changed based on the user feedback in your redesign.  
-1. Changed colors: the users thought the colors I used were unrelated to the theme and therefore I changed the color of the number of avocado toasts column to avocado green and the color of the average apartment deposit column to blue as an analogous color.  
-2. Added year: the users were confused about when the data was: was it recent? or was it a few years ago? I added the year of the data to the title.
-3. Added description: although having a basic sense of what the message of the visualization was conveying: how many avocado toasts to buy a house, the users were not completely sure about where the data came from or how the data came out and that made them doubt about the creditibly of the visualization. I added a few lines of descriptions under the headline to briefly describing where the data was from to make it more trustworthy. 
-4. Moved the locations of labels: the users thought putting the labels inside the bar chart were a bit crowdy and they had to spend a few seconds looking for where the labels were. I moved the labels to the top of the chart.
-
-what your redesigned data visualization shows, 
-In addition to the user feedback, I also made two more adjustments. 
-1. I added some background information briefly describing why putting avocado toasts and an apartment together. Comparing avocado toasts that is close to our daily life to the deposit that is relatively far away from our daily life can provide us a more concrete idea of how the deposit looks like, such as is it too high or too low? 
-2. I added legend so if the users want to focus on either one set of data, they can easily filter out the other one. 
-
-
-why you selected the data visualization you did,
-what you attempted to show or do differently.
-I selected bar chart because I want to see the comparsion of the average apartment deposit and the number of avocado toasts in 10 cities around the world. It is one of the most effective tools to compare data in a readable and understandable format. 
-
-I would like show a few things
-1. the comparsion between avocado toasts and an apartment: puting two color bars together, the users should be able to find that the long blue bar acutally is just equal to the short green bar, aligning that Comparing avocado toasts that is close to our daily life to the deposit that is relatively far away from our daily life can provide us a more concrete idea of how the deposit looks like, such as is it too high or too low? take Hong Kong as an example. Moving your cursor to the bar, you will be able to see the pop up window showing the average avocado toast price is $14/piece. If we save money on 26,858 pieces of avocado toasts, we will get $376,011 and will be able to get to buy an apartment. 
-2. show from the highest to the lowest average aparment deposit in 10 cities around the world: with the legend, the user filter out the number of avocado toasts to focus on the average apartment. The visualization will be able to provide them a quick sense of which city has the highest home price while which city has the lowest home price. 
-3. show from the highest to the lowest number of avocado toasts in 10 cities around the world: simiarly, with the legend, the user filter out the average apartment price to focus on the number of avocado toasts. instead of using money as units, Comparing avocado toasts that is close to our daily life to the deposit that is relatively far away from our daily life can provide us a more concrete idea of how the deposit looks like. For example, in Hong Kong averae apartment deposit of $376,011 equals to 26,858 pieces of avocado toasts sounds like a lot of toasts and that must be high.
-4. 
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/11837870"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Final project
