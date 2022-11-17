@@ -24,7 +24,7 @@ I learned my visualization was able to convey the message as it was supposed to.
 I came up with ideas for making changes to colors, adding numbers, and descriptions. 
 
 # Solution and summary
-# Original design
+## Original design
 I chose this visualization because I was impressed by the creativity of using avocado toasts instead of money to show how expensive or inexpensive an apartment can be. It is an interesting visualization to look at. I like its colors and how it tries to make everything concrete by putting avocado toast, a dollar bill, and the iconic buildings of the cities. In addition, the housing market is usually a dull topic for me. Using avocado toasts instead of traditional charts can not only bring in a new perspective of how the home prices are like nowadays but also makes it more related to my daily life and therefore attract me to learn more about it. Another reason I chose this visualization is that I wanted to make it more comparable. The visualization was divided into five parts. I had to scroll up and down to go through the entire visualization and to make comparisons between different countries.
 
 ![1](https://user-images.githubusercontent.com/116990977/202356011-597259a9-1d78-40c9-b4b3-aed49c3d277e.png)
@@ -35,7 +35,7 @@ I chose this visualization because I was impressed by the creativity of using av
 
 Source: “The Avocado Toast Index: How Many Breakfasts to Buy a House?” BBC Worklife, BBC, https://www.bbc.com/worklife/article/20170530-the-avocado-toast-index-how-many-breakfasts-to-buy-a-house.
 
-## Insights
+## Overall process and insights
 Based on the feedback, I made some changes:
 - Changed colors: the participants thought the colors I used were unrelated to the theme and therefore I changed the color of the number of avocado toasts column to avocado green and the color of the average apartment deposit column to an analogous blue.  
 - Added numbers: the participants mentioned it was hard to connect the x-axis to its bar because of the distance, particularly from the top bars, so I added numbers beside the bars. 
@@ -45,6 +45,7 @@ Based on the feedback, I made some changes:
 In addition to the user feedback, I also made an additional adjustment:
 -	I added a legend so if the users want to focus on either one set of data, they can easily filter out the other one. 
 
+## Why and what I would like to show
 I selected a bar chart because I want to see the comparison of the average apartment deposit and the number of avocado toasts in 10 cities around the world. It is one of the most effective tools to compare data in a readable and understandable format. With the bar chart, I would like to show a few things and  make it more comparable as I mentioned above: 
 - Comparison between avocado toasts and an apartment: putting two color bars together, the audience should be able to compare avocado toasts that are close to our daily life to the deposit that is relatively far away from our daily life and therefore can provide them a more concrete idea of how the deposit looks like, such as is it high or low? Take Hong Kong as an example. Moving the cursor to the bar, they will be able to see a pop-up window showing the average avocado toast price is $14/piece. If we save money on 26,858 pieces of avocado toast, we will get $376,011 and will be able to get to pay for a 20% apartment deposit. In other words, 26,858 pieces of avocado toast equal an apartment deposit.
 - Show from the highest to the lowest average apartment deposit in 10 cities around the world: with the legend, the audience is able to filter out the number of avocado toasts to focus on the average apartment. The visualization will be able to provide them with a quick sense of which city has the highest home price and which city has the lowest home price. 
