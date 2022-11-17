@@ -20,7 +20,7 @@ I learned my visualization was able to convey the message as it was supposed to.
 
 - Changes
 
-I came up with making changes to colors, adding numbers, and descriptions. 
+I came up with ideas for making changes to colors, adding numbers, and descriptions. 
 
 ### Solution
 #### Original design
@@ -44,7 +44,7 @@ Based on the feedback, I made some changes:
 In addition to the user feedback, I also made an additional adjustment:
 -	I added a legend so if the users want to focus on either one set of data, they can easily filter out the other one. 
 
-I selected a bar chart because I want to see the comparison of the average apartment deposit and the number of avocado toasts in 10 cities around the world. It is one of the most effective tools to compare data in a readable and understandable format. With the bar chart, I would like to show a few things: 
+I selected a bar chart because I want to see the comparison of the average apartment deposit and the number of avocado toasts in 10 cities around the world. It is one of the most effective tools to compare data in a readable and understandable format. With the bar chart, I would like to show a few things and  make it more comparable as I mentioned above: 
 - Comparison between avocado toasts and an apartment: putting two color bars together, the audience should be able to compare avocado toasts that are close to our daily life to the deposit that is relatively far away from our daily life and therefore can provide them a more concrete idea of how the deposit looks like, such as is it high or low? Take Hong Kong as an example. Moving the cursor to the bar, they will be able to see a pop-up window showing the average avocado toast price is $14/piece. If we save money on 26,858 pieces of avocado toast, we will get $376,011 and will be able to get to pay for a 20% apartment deposit. In other words, 26,858 pieces of avocado toast equal an apartment deposit.
 - Show from the highest to the lowest average apartment deposit in 10 cities around the world: with the legend, the audience is able to filter out the number of avocado toasts to focus on the average apartment. The visualization will be able to provide them with a quick sense of which city has the highest home price and which city has the lowest home price. 
 - Show from the highest to the lowest number of avocado toasts in 10 cities around the world: similarly, with the legend, the audience is able to filter out the average apartment price to focus on the number of avocado toasts. Instead of using money as units, comparing avocado toast to the deposit can provide us with a more concrete idea of what the deposit looks like. For example, in Hong Kong, an average apartment deposit of $376,011 equals 26,858 pieces of avocado toast, which sounds like a lot of toast, and that must be high.
