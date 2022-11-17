@@ -11,12 +11,17 @@ Participant 1 could clearly tell that it was a bar chart and a pretty straightfo
 Participant 1 could clearly tell that it was a bar chart and Hong Kong had the highest average apartment deposit and therefore needs the most avocado toasts. However, he mentioned that he could not see when the data was published. He was also a bit confused about why I would want to put these two objects together as they look irrelated to him. He guessed the intended audience should be someone who wanted to learn more about the world's home prices in a different way. He would add lines or numbers next to each bar because he mentioned that he was keeping putting his finger up and down to try to connect the bars and the values at the bottom. 
 
 - Patterns
+
 Both participants could clearly tell that the type of visualization and its message, had the same guess on the intended audience, and shared the same concern about the creditability of the data. They provided different recommendations on the design and the content, including the colors, and adding numbers next to each bar. 
 
 - Learn from the feedback
+
+
 I learned my visualization was able to convey the message as it was supposed to. However, there were some places that I would need to make more clarification to make it more understandable from the audience’s perspective. 
 
 - Changes
+
+
 I came up with making changes to colors, adding numbers, and descriptions. 
 
 ### Solution
