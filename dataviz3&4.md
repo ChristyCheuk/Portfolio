@@ -1,6 +1,7 @@
 ### Sketch 
 ![Screenshot 2022-11-16 at 11 31 10 PM](https://user-images.githubusercontent.com/116990977/202355797-09332ab5-40c6-4be0-ac45-e3996f39f8ac.png)
 
+
 ### Test and feedback
 #### Participant 1: Female, adult, late 50's
 
@@ -34,11 +35,12 @@ I chose this visualization because I was impressed by the creativity of using av
 
 Source: “The Avocado Toast Index: How Many Breakfasts to Buy a House?” BBC Worklife, BBC, https://www.bbc.com/worklife/article/20170530-the-avocado-toast-index-how-many-breakfasts-to-buy-a-house.
 
+
 #### Insights
 Based on the feedback, I made some changes:
 - Changed colors: the participants thought the colors I used were unrelated to the theme and therefore I changed the color of the number of avocado toasts column to avocado green and the color of the average apartment deposit column to an analogous blue.  
 - Added numbers: the participants mentioned it was hard to connect the x-axis to its bar because of the distance, particularly from the top bars, so I added numbers beside the bars. 
-- Added description: although having a basic sense of what the message of the visualization was conveying: how many avocado toasts to buy a house, the users were not completely sure about where the data came from or how the data came out, and that made them doubt about the creditably of the visualization. I added a few lines of descriptions to briefly describe where the data was from to make it more trustworthy. I also added some background information briefly describing why putting avocado toast and an apartment together. Comparing avocado toast that is close to our daily life to the deposit that is relatively far away from our daily life can provide the audience with a more concrete idea of how the deposit looks like, such as whether is it too high or too low. 
+- Added description: although having a basic sense of what the message of the visualization was conveying: how many avocado toasts to buy a house, the users were not completely sure about where the data came from or how the data came out, and that made them doubt about the creditably of the visualization. I added a few lines of descriptions to briefly describe where the data was from to make it more trustworthy. I also added some background information briefly describing why putting avocado toast and an apartment together. 
 - Added year: the participants were confused about when the data was: was it recent? or was it a few years ago? I added the year of the data to the title.
 
 In addition to the user feedback, I also made an additional adjustment:
@@ -48,6 +50,11 @@ I selected a bar chart because I want to see the comparison of the average apart
 - Comparison between avocado toasts and an apartment: putting two color bars together, the audience should be able to compare avocado toasts that are close to our daily life to the deposit that is relatively far away from our daily life and therefore can provide them a more concrete idea of how the deposit looks like, such as is it high or low? Take Hong Kong as an example. Moving the cursor to the bar, they will be able to see a pop-up window showing the average avocado toast price is $14/piece. If we save money on 26,858 pieces of avocado toast, we will get $376,011 and will be able to get to pay for a 20% apartment deposit. In other words, 26,858 pieces of avocado toast equal an apartment deposit.
 - Show from the highest to the lowest average apartment deposit in 10 cities around the world: with the legend, the audience is able to filter out the number of avocado toasts to focus on the average apartment. The visualization will be able to provide them with a quick sense of which city has the highest home price and which city has the lowest home price. 
 - Show from the highest to the lowest number of avocado toasts in 10 cities around the world: similarly, with the legend, the audience is able to filter out the average apartment price to focus on the number of avocado toasts. Instead of using money as units, comparing avocado toast to the deposit can provide us with a more concrete idea of what the deposit looks like. For example, in Hong Kong, an average apartment deposit of $376,011 equals 26,858 pieces of avocado toast, which sounds like a lot of toast, and that must be high.
+
+Also, there are a few things I attempted to do differently with the orginal design:
+- Completeness: the orginal design is divided into five parts. I have to scroll up and down to go through the entire visualization and to make comparisons between different countries. I combined all five parts into one bar chart so the audience can see everything at a time and have a quick sense of the highest and lowest ones.
+- Truthfulness: there are a few paragraphs describing the data resources and the calculations outside the original. However, if we simply look at the visualization, we cannot really find any. Also, it does not include when the data is: is it based on new or old data? I added a few lines of descriptions to briefly describe where the data was from to make it more trustworthy. I also added some background information briefly describing why putting avocado toast and an apartment together.
+
 
 #### Final design 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11837870"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
