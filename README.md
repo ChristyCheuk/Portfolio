@@ -39,7 +39,6 @@ Compared to a bar chart which is better used for category comparison or a line c
 Source: OECD (2022), General government debt (indicator). doi: 10.1787/a0528cc2-en(Accessed on 07 November 2022)
 
 ## Critique by design
-[Critique by design]()
-
+[Critique by design](/dataviz3&4.md)
 
 ## Final project
