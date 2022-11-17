@@ -1,3 +1,15 @@
+### Original design
+I chose this visualization because I was impressed by the creativity of using avocado toasts instead of money to show how expensive or inexpensive an apartment can be. It is an interesting visualization to look at. I like its colors and how it tries to make everything concrete by putting avocado toast, a dollar bill, and the iconic buildings of the cities. In addition, the housing market is usually a dull topic for me. Using avocado toasts instead of traditional charts can not only bring in a new perspective of how the home prices are like nowadays but also makes it more related to my daily life and therefore attract me to learn more about it. Another reason I chose this visualization is that I wanted to make it more comparable. The visualization was divided into five parts. I had to scroll up and down to go through the entire visualization and to make comparisons between different countries.
+
+![1](https://user-images.githubusercontent.com/116990977/202356011-597259a9-1d78-40c9-b4b3-aed49c3d277e.png)
+![2](https://user-images.githubusercontent.com/116990977/202356018-27e26cf2-917c-46b2-a47a-b3a5c157f9b0.png)
+![3](https://user-images.githubusercontent.com/116990977/202356026-18fc971e-870b-4ff7-af07-1f98ddaf01c0.png)
+![4](https://user-images.githubusercontent.com/116990977/202356035-c80ee41f-a58f-4ddc-98cc-9c50b655875f.png)
+![5](https://user-images.githubusercontent.com/116990977/202356040-eee5d347-704c-4d72-bf9e-6c84c0e026a6.png)
+
+Source: “The Avocado Toast Index: How Many Breakfasts to Buy a House?” BBC Worklife, BBC, https://www.bbc.com/worklife/article/20170530-the-avocado-toast-index-how-many-breakfasts-to-buy-a-house.
+
+
 ### Sketch 
 ![Screenshot 2022-11-16 at 11 31 10 PM](https://user-images.githubusercontent.com/116990977/202355797-09332ab5-40c6-4be0-ac45-e3996f39f8ac.png)
 
@@ -24,18 +36,6 @@ I learned my visualization was able to convey the message as it was supposed to.
 I came up with ideas for making changes to colors, adding numbers, and descriptions. 
 
 ### Solution and summary
-#### Original design
-I chose this visualization because I was impressed by the creativity of using avocado toasts instead of money to show how expensive or inexpensive an apartment can be. It is an interesting visualization to look at. I like its colors and how it tries to make everything concrete by putting avocado toast, a dollar bill, and the iconic buildings of the cities. In addition, the housing market is usually a dull topic for me. Using avocado toasts instead of traditional charts can not only bring in a new perspective of how the home prices are like nowadays but also makes it more related to my daily life and therefore attract me to learn more about it. Another reason I chose this visualization is that I wanted to make it more comparable. The visualization was divided into five parts. I had to scroll up and down to go through the entire visualization and to make comparisons between different countries.
-
-![1](https://user-images.githubusercontent.com/116990977/202356011-597259a9-1d78-40c9-b4b3-aed49c3d277e.png)
-![2](https://user-images.githubusercontent.com/116990977/202356018-27e26cf2-917c-46b2-a47a-b3a5c157f9b0.png)
-![3](https://user-images.githubusercontent.com/116990977/202356026-18fc971e-870b-4ff7-af07-1f98ddaf01c0.png)
-![4](https://user-images.githubusercontent.com/116990977/202356035-c80ee41f-a58f-4ddc-98cc-9c50b655875f.png)
-![5](https://user-images.githubusercontent.com/116990977/202356040-eee5d347-704c-4d72-bf9e-6c84c0e026a6.png)
-
-Source: “The Avocado Toast Index: How Many Breakfasts to Buy a House?” BBC Worklife, BBC, https://www.bbc.com/worklife/article/20170530-the-avocado-toast-index-how-many-breakfasts-to-buy-a-house.
-
-
 #### Insights
 Based on the feedback, I made some changes:
 - Changed colors: the participants thought the colors I used were unrelated to the theme and therefore I changed the color of the number of avocado toasts column to avocado green and the color of the average apartment deposit column to an analogous blue.  
@@ -52,7 +52,7 @@ I selected a bar chart because I want to see the comparison of the average apart
 - Show from the highest to the lowest number of avocado toasts in 10 cities around the world: similarly, with the legend, the audience is able to filter out the average apartment price to focus on the number of avocado toasts. Instead of using money as units, comparing avocado toast to the deposit can provide us with a more concrete idea of what the deposit looks like. For example, in Hong Kong, an average apartment deposit of $376,011 equals 26,858 pieces of avocado toast, which sounds like a lot of toast, and that must be high.
 
 Also, there are a few things I attempted to do differently with the original design:
-- Completeness: the original design is divided into five parts. I had to scroll up and down to go through the entire visualization and to make comparisons between different countries. I combined all five parts into one bar chart so the audience can see everything at a time and have a quick sense of the highest and lowest ones.
+- Completeness: the original design is divided into five parts. I combined all five parts into one bar chart so the audience can see everything at a time and have a quick sense of the highest and lowest ones.
 - Truthfulness: a few paragraphs are describing the data resources and the calculations outside the original. However, if we simply look at the visualization, we cannot really find any. Also, it does not include when the data is: is it based on new or old data? I added a few lines of descriptions to briefly describe where the data was from to make it more trustworthy. I also added some background information briefly describing why putting avocado toast and an apartment together.
 
 
