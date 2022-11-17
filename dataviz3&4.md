@@ -16,11 +16,9 @@ Both participants could clearly tell that the type of visualization and its mess
 
 - Learn from the feedback
 
-
 I learned my visualization was able to convey the message as it was supposed to. However, there were some places that I would need to make more clarification to make it more understandable from the audience’s perspective. 
 
 - Changes
-
 
 I came up with making changes to colors, adding numbers, and descriptions. 
 
