@@ -41,7 +41,7 @@ Based on the feedback, I made some changes:
 - Changed colors: the participants thought the colors I used were unrelated to the theme and therefore I changed the color of the number of avocado toasts column to avocado green and the color of the average apartment deposit column to an analogous blue.  
 - Added numbers: the participants mentioned it was hard to connect the x-axis to its bar because of the distance, particularly from the top bars, so I added numbers beside the bars. 
 - Added description: although having a basic sense of what the message of the visualization was conveying: how many avocado toasts to buy a house, the users were not completely sure about where the data came from or how the data came out, and that made them doubt about the creditably of the visualization. I added a few lines of descriptions to briefly describe where the data was from to make it more trustworthy. I also added some background information briefly describing why putting avocado toast and an apartment together. 
-- Added year: the participants were confused about when the data was: was it recent? or was it a few years ago? I added the year of the data to the title.
+- Updated data and added year: the participants were confused about when the data was: was it recently? Or was it a few years ago? I visited the website Numbeo used by the original data and replaced it with the most recent data and then added the year 2022 to the title.
 
 In addition to the user feedback, I also made an additional adjustment. I added a legend so if the users want to focus on either one set of data, they can easily filter out the other one. 
 
