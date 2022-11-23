@@ -2,30 +2,35 @@
 
 | Goals | Description |
 
-| Decide a topic | - Find a topic that I am interested in or closely related to my daily life that I would like to say
+| Decide a topic | 
+- Find a topic that I am interested in or closely related to my daily life that I would like to say
 - Decide who the audience will be |
-2.	Research on the topic
-a.	Make sure its data is accessible
-3.	Sketch
-a.	Brainstorm what I would like to put in the final design
-4.	Collect feedback
-a.	Method: interview people from different backgrounds
-b.	Estimated time: 15 minutes
-c.	Estimated format: in-person/remote/survey
-d.	Estimated prompts:
+
+| Research on the topic | 
+- Make sure its data is accessible |
+
+| Sketch | 
+- Brainstorm what I would like to put in the final design |
+
+| Collect feedback | 
+- Method: interview people from different backgrounds
+- Estimated time: 15 minutes
+-	Estimated format: in-person/remote/survey
+-	Estimated prompts:
+
 i.	What do you think this is?
 ii.	What is this telling you?
 iii.	Is there anything you find surprising or confusing?
-iv.	Is there anything you would change or do differently?
-5.	Revise based on feedback – by 27
-a.	organize the feedback by trying to find patterns
-b.	reflect on what I learn from the feedback
-c.	come up with changes I would make the most sense in the final design
-6.	Deliver the final design – by 8
-a.	Use flourish/Tableau to refine the design
-b.	Use shorthand to build the story
-![image](https://user-images.githubusercontent.com/116990977/203657554-38cc5c56-8ab3-4b11-87c7-0cd039b5e78b.png)
+iv.	Is there anything you would change or do differently? |
 
+| Revise based on feedback – by 27 | 
+-	organize the feedback by trying to find patterns
+-	reflect on what I learn from the feedback 
+-	come up with changes I would make the most sense in the final design |
+
+|	Deliver the final design – by 8 |
+-	Use flourish/Tableau to refine the design
+-	Use shorthand to build the story |
 
 
 # Outline
