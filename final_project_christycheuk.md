@@ -1,5 +1,7 @@
 # Progress
+
 | Goals | Description |
+
 | Decide a topic | - Find a topic that I am interested in or closely related to my daily life that I would like to say
 - Decide who the audience will be |
 2.	Research on the topic
@@ -38,22 +40,21 @@ As a reader, I want to find long-term contentment so that I can have real happin
 
 # Initial sketches
 As the below story arc shows, using the phone makes me feel pleasure at the beginning, but as time passes on, I feel bad until I turn off the phone and start doing something meaningful to make myself feel truly happy. 
-[Story arc]![Screenshot 2022-11-23 at 5 34 59 PM](https://user-images.githubusercontent.com/116990977/203657411-896d5944-8547-4a01-95aa-f479bc34965c.png)
+![Screenshot 2022-11-23 at 5 34 59 PM](https://user-images.githubusercontent.com/116990977/203657411-896d5944-8547-4a01-95aa-f479bc34965c.png)
 
 I sketched a bar chart to compare the percentage of people feeling happy, pleasure, and miserable in the short- and long-term when using a phone. I put short- and long-term next to each other and grouped them by feelings. We can clearly see the percentage changes over the short- and long-term and an increase or decrease. Therefore, I put the headline "how do people feel in the short- and long-term when using a phone?" I also plan to put the year of data on and add the percentages on the bars to make them look more clear.
-[Bar chart]![Screenshot 2022-11-23 at 5 35 07 PM](https://user-images.githubusercontent.com/116990977/203657439-4fae7c96-6319-45c8-b279-e2c7ebb0a51b.png)
+![Screenshot 2022-11-23 at 5 35 07 PM](https://user-images.githubusercontent.com/116990977/203657439-4fae7c96-6319-45c8-b279-e2c7ebb0a51b.png)
 
 I sketched a line chart to see the trend of feeling based on the time spent on something meaningful and the phone respectively. We can clearly see the former reaches happiness for a longer duration while the latter only reaches pleasure for a shorter duration. Therefore, I put the headline of spending time on something meaningful can bring more happiness than a phone can. I also plan to add text boxes showing what the brain says at the peaks of both lines to provide more information to help the audience better understand the difference between happiness and pleasure.
-[Line chart]![Screenshot 2022-11-23 at 5 35 14 PM](https://user-images.githubusercontent.com/116990977/203657461-4016427b-16af-4a1f-87b0-8ff70766b055.png)
+![Screenshot 2022-11-23 at 5 35 14 PM](https://user-images.githubusercontent.com/116990977/203657461-4016427b-16af-4a1f-87b0-8ff70766b055.png)
 
 
 # Data
 I would focus on students and would need the data related to their phone use and happiness. I also need the data related to the research about the relationships between using phones and dopamine dealing with pleasure as well as doing something meaningful and serotonin dealing with happiness.  I would mainly use the data from research websites including the National Library of Medicine and ResearchGate and also news websites including Business Insider and Wall Street Journal. I have listed some URLs below:
-- The Relationship between Smartphone Use and Happiness among University Students (https://www.researchgate.net/publication/344250581_The_Relationship_between_Smartphone_Use_and_Happiness_among_University_Students)
-- Problematic Mobile Phone Use and Life Satisfaction Among University Students During the COVID-19 Pandemic in Shanghai, China 
-(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8826078/)
-- Happier People Live More Active Lives: Using Smartphones to Link Happiness and Physical Activity (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5213770/)
-- This is why our phones are making us miserable: happiness isn't the same thing as pleasure, and our brain knows it (https://www.businessinsider.com/why-our-phones-are-making-us-miserable-pleasure-isnt-happiness-2018-3)
+- [The Relationship between Smartphone Use and Happiness among University Students](https://www.researchgate.net/publication/344250581_The_Relationship_between_Smartphone_Use_and_Happiness_among_University_Students)
+- [Problematic Mobile Phone Use and Life Satisfaction Among University Students During the COVID-19 Pandemic in Shanghai, China](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8826078/)
+- [Happier People Live More Active Lives: Using Smartphones to Link Happiness and Physical Activity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5213770/)
+- [This is why our phones are making us miserable: happiness isn't the same thing as pleasure, and our brain knows it](https://www.businessinsider.com/why-our-phones-are-making-us-miserable-pleasure-isnt-happiness-2018-3)
 
 # Method and medium
 I would use Shorthand for my final deliverable. It has many templates that are suitable for the theme of my final report. I would also use data visualization tools such as Flourish and Tableau to visualize the data and add related narratives and then add them to Shorthand in hopes to provide the audience with a better understanding. 
