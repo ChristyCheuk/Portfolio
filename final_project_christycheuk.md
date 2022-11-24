@@ -34,7 +34,7 @@ In my final report, I would like to discuss that I usually feel satisfied when d
 “Happiness” and “Pleasure” may have subtle language differences but huge chemical differences. Our brain has two different parts: serotonin deal with happiness, and dopamine deals with pleasure. The former is associated with long-term contentment from activities such as giving and sharing. It makes the brain feel good and that is enough. On the other hand, the latter is associated with short-term rewards and motivation from activities such as taking. It makes the brain feel good and wants more and therefore easy to leads to addiction. 
 
 As the below story arc shows, using a phone makes me feel pleasure at the beginning, but as time passes on, I feel bad until I turn off the phone and start doing something meaningful to make myself feel truly happy. 
-![Screenshot 2022-11-23 at 5 34 59 PM](https://user-images.githubusercontent.com/116990977/203657411-896d5944-8547-4a01-95aa-f479bc34965c.png)
+![Screenshot 2022-11-23 at 10 30 27 PM](https://user-images.githubusercontent.com/116990977/203687813-a959b2e7-da58-4e70-835c-805d23ea9d3e.png)
 
 Overall, as a reader, I want to find long-term contentment so that I can get real happiness. I can do this by spending less time on the phone and more time on meaningful things. I am interested in showing:
 - Comparing how people think phones make their life
