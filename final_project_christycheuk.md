@@ -27,7 +27,11 @@
 
 
 ## Outline
-Nowadays, a phone plays an important role in my daily life and can do a lot of things, such as keeping in touch with our families and friends, browsing social media to check for updates on the world, doing shopping, and so on. In my final report, I would like to discuss that I usually feel satisfied when doing those activities but to some extent, also feel those are not the things I truly want to do. Why will I have these contradictory feelings? “Happiness” and “Pleasure” may have subtle language differences but huge chemical differences. Our brain has two different parts: serotonin deal with happiness, and dopamine deals with pleasure. The former is associated with long-term contentment from activities such as giving and sharing. It makes the brain feel good and that is enough. On the other hand, the latter is associated with short-term rewards and motivation from activities such as taking. It makes the brain feel good and wants more and therefore easy to leads to addiction. 
+Nowadays, a phone plays an important role in my daily life and can do a lot of things, such as keeping in touch with our families and friends, browsing social media to check for updates on the world, doing shopping, and so on. 
+
+In my final report, I would like to discuss that I usually feel satisfied when doing those activities, but to some extent, also feel those are not the things I truly want to do. Why will I have these contradictory feelings? 
+
+“Happiness” and “Pleasure” may have subtle language differences but huge chemical differences. Our brain has two different parts: serotonin deal with happiness, and dopamine deals with pleasure. The former is associated with long-term contentment from activities such as giving and sharing. It makes the brain feel good and that is enough. On the other hand, the latter is associated with short-term rewards and motivation from activities such as taking. It makes the brain feel good and wants more and therefore easy to leads to addiction. 
 
 As the below story arc shows, using a phone makes me feel pleasure at the beginning, but as time passes on, I feel bad until I turn off the phone and start doing something meaningful to make myself feel truly happy. 
 ![Screenshot 2022-11-23 at 5 34 59 PM](https://user-images.githubusercontent.com/116990977/203657411-896d5944-8547-4a01-95aa-f479bc34965c.png)
