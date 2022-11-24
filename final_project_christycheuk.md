@@ -34,7 +34,7 @@ As the below story arc shows, using a phone makes me feel pleasure at the beginn
 
 Overall, as a reader, I want to find long-term contentment so that I can get real happiness. I can do this by spending less time on the phone and more time on meaningful things. I am interested in showing:
 - Comparing how people think phones make their life
-- Showing spending time on something meaningful can bring more happiness than phones can
+- Because of serotonin and dopamine, spending time on something meaningful can bring more happiness than phones can
 - Call for the action of spending time on something meaningful instead of on a phone
 
 
