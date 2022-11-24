@@ -38,9 +38,11 @@ Overall, as a reader, I want to find long-term contentment so that I can have re
 
 
 # Initial sketches
+## Bar chart
 I sketched a bar chart to compare the percentage of people feeling happy, pleasure, and miserable in the short- and long-term when using a phone. I put short- and long-term next to each other and grouped them by feelings. We can clearly see the percentage changes over the short- and long-term and an increase or decrease. Therefore, I put the headline "How do people feel in the short- and long-term when using a phone?" I also plan to put the year of data on and add the percentages on the bars to make them look more clear.
 ![Screenshot 2022-11-23 at 5 35 07 PM](https://user-images.githubusercontent.com/116990977/203657439-4fae7c96-6319-45c8-b279-e2c7ebb0a51b.png)
 
+## Line chart
 I sketched a line chart to see the trend of feeling based on the time spent on something meaningful and the phone respectively. We can clearly see the former reaches happiness for a longer duration while the latter only reaches pleasure for a shorter duration. Therefore, I put the headline "Spending time on something meaningful can bring more happiness than a phone can" to call for action on spending more time on something meaningful instead of on a phone. I also plan to add text boxes showing what the brain says at the peaks of both lines to provide more information in order to help the audience better understand the difference between happiness and pleasure.
 ![Screenshot 2022-11-23 at 5 35 14 PM](https://user-images.githubusercontent.com/116990977/203657461-4016427b-16af-4a1f-87b0-8ff70766b055.png)
 
