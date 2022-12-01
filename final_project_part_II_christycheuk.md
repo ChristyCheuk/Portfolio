@@ -5,7 +5,7 @@ Final Project Part II: Wireframes and User Research
 Source: https://www.businessinsider.com/why-our-phones-are-making-us-miserable-pleasure-isnt-happiness-2018-3
 
 5. do and se
-![Screenshot 2022-12-01 at 9 30 54 AM](https://user-images.githubusercontent.com/116990977/205078896-6af9a0ef-9305-4718-8f5a-274e99ba5f49.png)
+![Screenshot 2022-12-01 at 1 27 39 PM 1](https://user-images.githubusercontent.com/116990977/205131632-d6eef508-2fc4-415c-aec9-2084c8408f5b.png)
 Source: https://www.businessinsider.com/why-our-phones-are-making-us-miserable-pleasure-isnt-happiness-2018-3
 
 2. phone activities
