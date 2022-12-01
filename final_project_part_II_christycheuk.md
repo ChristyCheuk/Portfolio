@@ -8,7 +8,7 @@ Source: https://www.businessinsider.com/why-our-phones-are-making-us-miserable-p
 ![Screenshot 2022-12-01 at 9 30 54 AM](https://user-images.githubusercontent.com/116990977/205078896-6af9a0ef-9305-4718-8f5a-274e99ba5f49.png)
 Source: https://www.businessinsider.com/why-our-phones-are-making-us-miserable-pleasure-isnt-happiness-2018-3
 
-2. phone usage: 什麼時候用手機用的最多
+2. phone activities
 ![IMG_8216](https://user-images.githubusercontent.com/116990977/205129839-52615717-0095-4031-b6f9-3f199e9cabbc.jpg)
 
 3. addiction - dopamine
