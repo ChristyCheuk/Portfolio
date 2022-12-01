@@ -1,10 +1,18 @@
 Final Project Part II: Wireframes and User Research
 
+1. cover page
+
+
+2.
+
 3.
 <div class="flourish-embed flourish-chart" data-src="visualisation/12015562"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 Source: https://www.statista.com/chart/3666/frequency-of-smartphone-usage/
 
-4.
+4. 
+<div class="flourish-embed flourish-chart" data-src="visualisation/12027686"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+5.
 <div class="flourish-embed flourish-chart" data-src="visualisation/12021246"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 Source: https://worldhappiness.report/ed/2019/the-sad-state-of-happiness-in-the-united-states-and-the-role-of-digital-media/
 
