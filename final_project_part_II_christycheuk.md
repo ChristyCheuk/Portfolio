@@ -55,7 +55,7 @@ Narrative: Adding on the previous chart, the more time we spend on phones, the l
 
 ### Page 7 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12027686"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Narrative: I would like to call for the action of spending time on non-phone activities instead of phone activities.  Because of serotonin and dopamine, spending time on non-phone activities can bring more happiness than phone activities can. This bar chart shows the comparison of non-phone and phone activities. There is a positive correlation between non-phone activities and happiness and a negative correlation between phone activities and happiness. I used contrast colors such that blue and red to distinguish non-phone and phone activities and also used darker colors to highlight the most impactful ones.
+Narrative: I would like to call for the action of spending time on non-phone activities including sports, in-personal social interaction and volunteer work instead of phone activities.  Because of serotonin and dopamine, spending time on non-phone activities can bring more happiness than phone activities can. This bar chart shows the comparison of non-phone and phone activities. There is a positive correlation between non-phone activities and happiness and a negative correlation between phone activities and happiness. I used contrast colors such that blue and red to distinguish non-phone and phone activities and also used darker colors to highlight the most impactful ones.
 
 
 ## User research 
