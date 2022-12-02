@@ -145,7 +145,7 @@ I learned my visualization was able to convey the message as it was supposed to.
 ##### Changes made
 
 - Added descriptions: although having a basic sense of what the message of the visualization was conveying, the participants were not completely sure about it. I added a few lines of descriptions to try to make the visualizations look more readable and understandable.
-- Changed the bar chart on page 3 from stacked to grouped： the participants found that stacked bars made them feel confused and took them some time to figure out how the numbers came out. I, therefore, changed it to grouped bar chart to make it look easier to understand. 
+- Changed the bar chart on page 3 from stacked to grouped: the participants found that stacked bars made them feel confused and took them some time to figure out how the numbers came out. I, therefore, changed it to grouped bar chart to make it look easier to understand. 
 - Changed colors of the bar chart on page 7: the participants thought using contrast colors would be helpful for showing the comparison between non-phone and phone activities, so I changed the colors to blue and red. Also, the participants thought there were too many activities on the y-axis, and would be helpful if highlighted the most impactful ones. Therefore, I used darker blue and red for the top three activities of each category and lighter blue and red for the rest. 
 - Added a highlight of the year of iPhone was released to the line chart on page 5
 
