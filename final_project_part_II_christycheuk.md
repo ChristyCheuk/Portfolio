@@ -153,7 +153,7 @@ I learned my visualization was able to convey the message as it was supposed to.
 
 ## Sources:
 1. Richter, Felix. “Infographic: America's Growing Smartphone Addiction.” Statista Infographics, 23 July 2015, https://www.statista.com/chart/3666/frequency-of-smartphone-usage/. 
-2. “The Sad State of Happiness in the United States and the Role of Digital Media.” The Sad State of Happiness in the United States and the Role of Digital Media | The World Happiness Report, https://worldhappiness.report/ed/2019/the-sad-state-of-happiness-in-the-united-states-and-the-role-of-digital-media/. 
+2. “The Sad State of Happiness in the United States and the Role of Digital Media.” The Sad State of Happiness in the United States and the Role of Digital Media The World Happiness Report, https://worldhappiness.report/ed/2019/the-sad-state-of-happiness-in-the-united-states-and-the-role-of-digital-media/. 
 3. Admin. “Dopamine, Smartphones &amp; You: A Battle for Your Time.” Science in the News, 4 Feb. 2021, https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/. 
 4. Brueck, Hilary. “This Is Why Our Phones Are Making Us Miserable: Happiness Isn't the Same Thing as Pleasure, and Our Brain Knows It.” Business Insider, Business Insider, https://www.businessinsider.com/why-our-phones-are-making-us-miserable-pleasure-isnt-happiness-2018-3. 
 5. “Constant Craving: How Digital Media Turned Us All into Dopamine Addicts.” The Guardian, Guardian News and Media, 22 Aug. 2021, https://www.theguardian.com/global/2021/aug/22/how-digital-media-turned-us-all-into-dopamine-addicts-and-what-we-can-do-to-break-the-cycle. 
