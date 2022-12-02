@@ -42,6 +42,6 @@ Source: OECD (2022), General government debt (indicator). doi: 10.1787/a0528cc2-
 [Critique by design](/dataviz3&4.md)
 
 ## Final project
-[Final project](/final_project_christycheuk.md)
+[Final project Part I](/final_project_christycheuk.md)
 
-[Wireframe and User Research](/final_project_part_II_christycheuk.md)
+[Final project Part II: Wireframe and User Research](/final_project_part_II_christycheuk.md)
