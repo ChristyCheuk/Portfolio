@@ -51,7 +51,7 @@ Narrative: I highlighted 2007 which is the year of iPhone was released. In the s
 
 ### Page 6
 <div class="flourish-embed flourish-chart" data-src="visualisation/12021246"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Narrative: Following up on the previous chart, the more time we spend on phones, the less happy we will have. This line chart shows the standardized scores of phone usage hours and general happiness.
+Narrative: Adding on the previous chart, the more time we spend on phones, the less happy we will have. This line chart shows the standardized scores of phone usage hours and general happiness.
 
 ### Page 7 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12027686"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
