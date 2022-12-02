@@ -147,6 +147,7 @@ I learned my visualization was able to convey the message as it was supposed to.
 - Changed the bar chart on page 3 from stacked to grouped
 - Added a highlight at the year of iPhone released in 2007 to the line chart on page 5
 - Changed colors of the bar chart on page 7: the participants thought using contrast colors would be helpful for showing the comparsion between non phone and phone activities, so I changed the colors to blue and red. Also, the participants thought there are too many activities on y-axis and would be helpful if highlighting out the most impactful ones, so I used darker blue and red for the top three activities ones of each catergory and lighter blue and red for the rest. 
+
 #### Changes will be made in the near future
 - Try to find some more updated data: the participants noticed that most of data I am using was a few years ago and thought that would be more convincible if I could find some more recent data. It will take time to find this kind of data and I will try to update the data in the near future. 
 
