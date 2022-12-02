@@ -65,7 +65,7 @@ Narrative: I would like to call for the action of spending time on non-phone act
 - Method: I will talk with people around me from different backgrounds and then make an in-person or remote interview or have them fill out a survey. 
 - Estimated time: 15 minutes
 -	Format: in-person/remote/survey
--	Prompts: - Who do you think the intended audience is? What do you think this is? What is this telling you? Is there anything you find surprising or confusing? Is there anything you would change or do differently? 
+-	Prompts: Who do you think the intended audience is? What do you think this is? What is this telling you? Is there anything you find surprising or confusing? Is there anything you would change or do differently? 
 
 ### Participants
 #### Participant 1: Female, student, early 20's
