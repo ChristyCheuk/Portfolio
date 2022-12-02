@@ -25,7 +25,7 @@
 ## Wireframe and storyboard
 As a reader, I want to find long-term contentment so that I can get real happiness. I can do this by spending less time on the phone and more time on non phone activities. I will be showing:
 - the difference between pleasure and happiness associated with dopamine and serotonin respectively
-- how the phone make our life
+- how the phone makes our life
 - spending time on non phone activities can bring more happiness than the phone can
 - call for the action of spending time on non phone activities instead of on the phone
 
@@ -60,6 +60,7 @@ Narrative: I would like to call for the action of spending time on non phone act
 
 ## User research 
 ### Protocol
+- Goal: learn from different perspectives to make sure my visualizations are readable and understand
 - Target audience: the audience will be students who usually feel satisfied when doing phone activities, but also feel those are not the things they truly want to do, and curious about why they will have these contradictory feelings.
 - Method: I will talk with people around me from different backgrounds and then make an in-person or remote interview or have them filled out a survey. 
 - Estimated time: 15 minutes
@@ -143,7 +144,7 @@ I learned my visualization was able to convey the message as it was supposed to.
 ### Changes
 #### Changes made
 
-- Added descriptions
+- Added descriptions: although having a basic sense of what the message of the visualization was conveying, the participatns were not completely sure about it. I added a few lines of descriptions to try to make the visualization look more readable and understand.
 - Changed the bar chart on page 3 from stacked to grouped
 - Added a highlight at the year of iPhone released in 2007 to the line chart on page 5
 - Changed colors of the bar chart on page 7: the participants thought using contrast colors would be helpful for showing the comparsion between non phone and phone activities, so I changed the colors to blue and red. Also, the participants thought there are too many activities on y-axis and would be helpful if highlighting out the most impactful ones, so I used darker blue and red for the top three activities ones of each catergory and lighter blue and red for the rest. 
