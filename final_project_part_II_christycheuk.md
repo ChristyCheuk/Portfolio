@@ -47,15 +47,15 @@ Narrative: I am not the only one spending most of the time of a day on phone. 73
 
 ### Page 5 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12022456"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Narrative: 2007 is the year of iPhone released and at the same year, we can see that the happiness scale slides down to the bottom.
+Narrative: I highlighed 2007 which is the year of iPhone released. At the same year, we can see that the happiness scale slides down to the bottom. Up until 2015, the happiness scale has not be back to the level ten years ago.
 
 ### Page 6
 <div class="flourish-embed flourish-chart" data-src="visualisation/12021246"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Narrative: Following up on the previous chart, the more time we spend on phones, the less happiness we will have. 
+Narrative: Following up on the previous chart, the more time we spend on phones, the less happiness we will have. This line chart shows the standarized scores of phone usage hours and general happiness.
 
 ### Page 7 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12027686"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Narrative: Because of serotonin and dopamine, spending time on something meaningful can bring more happiness than phones can. This bar chart shows the comparsion of non phone and phone activities. There is a positive correlation between non phone activities and happiness and a negative correlation between phone activities and happiness. Therefore, I would liek to call for the action of spending time on non phone activities instead of phone activities. 
+Narrative: I would like to call for the action of spending time on non phone activities instead of phone activities.  Because of serotonin and dopamine, spending time on non phone activities can bring more happiness than phone activities can. This bar chart shows the comparsion of non phone and phone activities. There is a positive correlation between non phone activities and happiness and a negative correlation between phone activities and happiness. I used contrast colors such that blue and red to distinct non phone and phone activities and also used darker colors to highlight the most impactful ones.
 
 
 ## User research 
@@ -86,7 +86,7 @@ I like the way you visualize pleasure and happiness and associated dopamine and 
 
 - Is there anything you would change or do differently?
 
-I feel like it would be great if you could add some descriptions about what "correlation" in those graphs. Also, I would probably change the color of the last chart if you wanted to show the contrast between non phone activities and phone activities. 
+I feel like it would be great if you could add some descriptions about what "correlation" in those graphs. Also, I would probably change the color of the last chart if you wanted to show the contrast between non phone activities and phone activities. One more thing, it would be great if you could provide some more updated data.
 
 #### Participant 2: Male, student, mid 20's
 - Who do you think is the intended audience for this?
@@ -134,7 +134,7 @@ In the second and third graphs, the description and units of the x-axis and y-ax
 ## Findings
 ### Patterns
 
-Participants could clearly tell that the type of visualization and its message, had the same guess on the intended audience, and shared the same concern about the bar chart on page 3. They also provided different recommendations on the design and the content, including changing colors and adding descritpions. 
+Participants could clearly tell that the type of visualization and its message, had the same guess on the intended audience, and shared the same concern about the bar chart on page 3. They also provided different recommendations on the design and the content, including changing colors, adding descritpions and updating the data. 
 
 ### Learned from feedback
 
@@ -142,11 +142,14 @@ I learned my visualization was able to convey the message as it was supposed to.
 
 ### Changes
 #### Changes made
-- Changed colors
+
 - Added descriptions
 - Changed the bar chart on page 3 from stacked to grouped
+- Added a highlight at the year of iPhone released in 2007 to the line chart on page 5
+- Changed colors of the bar chart on page 7: the participants thought using contrast colors would be helpful for showing the comparsion between non phone and phone activities, so I changed the colors to blue and red. Also, the participants thought there are too many activities on y-axis and would be helpful if highlighting out the most impactful ones, so I used darker blue and red for the top three activities ones of each catergory and lighter blue and red for the rest. 
 #### Changes will be made in the near future
-- Find some more updated data
+- Try to find some more updated data: the participants noticed that most of data I am using was a few years ago and thought that would be more convincible if I could find some more recent data. It will take time to find this kind of data and I will try to update the data in the near future. 
+
 
 ## Sources:
 1. Richter, Felix. “Infographic: America's Growing Smartphone Addiction.” Statista Infographics, 23 July 2015, https://www.statista.com/chart/3666/frequency-of-smartphone-usage/. 
