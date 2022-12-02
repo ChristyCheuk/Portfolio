@@ -35,7 +35,7 @@ Narrative: “Happiness” and “Pleasure” may have subtle language differenc
 
 ### Page 2
 ![IMG_0416](https://user-images.githubusercontent.com/116990977/205186482-36558555-4bf1-4890-b251-fa3a750c465d.PNG)
-Narrative: Our brain has two different parts: serotonin deal with happiness, and dopamine deals with pleasure. The former is associated with long-term contentment from activities such as giving and sharing. It makes the brain feel good and that is enough. On the other hand, the latter is associated with short-term rewards and motivation from activities such as taking. It makes the brain feel good and wants more and therefore easy to leads to addiction. 
+Narrative: Our brain has two different parts: serotonin deal with happiness, and dopamine deals with pleasure. The former is associated with long-term contentment from activities such as non phone activities. It makes the brain feel good and that is enough. On the other hand, the latter is associated with short-term rewards and motivation from activities such as phone activities. It makes the brain feel good and wants more and therefore easy to leads to addiction. 
 
 ### Page 3
 <div class="flourish-embed flourish-chart" data-src="visualisation/12028363"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -159,3 +159,4 @@ I learned my visualization was able to convey the message as it was supposed to.
 3. Admin. “Dopamine, Smartphones &amp; You: A Battle for Your Time.” Science in the News, 4 Feb. 2021, https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/. 
 4. Brueck, Hilary. “This Is Why Our Phones Are Making Us Miserable: Happiness Isn't the Same Thing as Pleasure, and Our Brain Knows It.” Business Insider, Business Insider, https://www.businessinsider.com/why-our-phones-are-making-us-miserable-pleasure-isnt-happiness-2018-3. 
 5. “Constant Craving: How Digital Media Turned Us All into Dopamine Addicts.” The Guardian, Guardian News and Media, 22 Aug. 2021, https://www.theguardian.com/global/2021/aug/22/how-digital-media-turned-us-all-into-dopamine-addicts-and-what-we-can-do-to-break-the-cycle. 
+6. Yes, Smartphones Are Destroying a Generation, but Not of Kids. https://daily.jstor.org/yes-smartphones-are-destroying-a-generation-but-not-of-kids/. 
