@@ -22,7 +22,7 @@
 -	Use shorthand to build the story 
 
 
-## Wireframe and storyboard
+## Wireframes and storyboards
 As a reader, I want to find long-term contentment so that I can get real happiness. I can do this by spending less time on the phone and more time on non phone activities. I will be showing:
 - the difference between pleasure and happiness associated with dopamine and serotonin respectively
 - how the phone makes our life
@@ -39,11 +39,11 @@ Narrative: Our brain has two different parts: serotonin deal with happiness, and
 
 ### Page 3
 <div class="flourish-embed flourish-chart" data-src="visualisation/12028363"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Narrative: I tried to use a stacked bar chart to show my last week phone activities based on my phone screen time and found that I spent 6 hours, one forth of a day on entertainment on average. 
+Narrative: I used a stacked bar chart to show my last week phone activities based on my phone screen time and found that I spent 6 hours, one forth of a day on entertainment on average. 
 
 ### Page 4
 <div class="flourish-embed flourish-chart" data-src="visualisation/12015562"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Narrative: I am not the only one spending most of the time of a day on phone. 73% of America's 18- to 29-year-olds have to check on their phones at least several times an hour and of those, 22% have to check on their phones every few minutes. 
+Narrative: I am not the only one spending a lot of time of a day on phone. 73% of America's 18- to 29-year-olds have to check on their phones at least several times an hour and of those, 22% have to check on their phones every few minutes. 
 
 ### Page 5 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12022456"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -71,7 +71,7 @@ Narrative: I would like to call for the action of spending time on non phone act
 #### Participant 1: Female, student, early 20's
 - Who do you think is the intended audience for this?
 
-The audience should be teenagers.
+The audience should be students.
 
 - What do you think this is?
 
@@ -92,7 +92,7 @@ I feel like it would be great if you could add some descriptions about what "cor
 #### Participant 2: Male, student, mid 20's
 - Who do you think is the intended audience for this?
 
-The audience should be teenagers. However, I couldn't hundred percent sure about who your intended audience would be before I saw the fourth graph. It could be helpful if you could point it out directly at the beginning.
+The audience should be students. However, I couldn't hundred percent sure about who your intended audience would be before I saw the fourth graph. It could be helpful if you could point it out directly at the beginning.
 
 - What do you think this is?
 
