@@ -61,7 +61,7 @@ Narrative: I would like to call for the action of spending time on non-phone act
 ## User research 
 ### Protocol
 - Goal: learn from different perspectives to make sure my visualizations are readable and understand
-- Target audience: the audience will be students who spend a lot of time on their phones everyday.
+- Target audience: the audience will be students who spend a lot of time on their phones everyday. I would like to call for the action of spending time on non-phone activities instead of on the phone.
 - Method: I will talk with people around me from different backgrounds and then make an in-person or remote interview or have them fill out a survey. 
 - Estimated time: 15 minutes
 -	Format: in-person/remote/survey
