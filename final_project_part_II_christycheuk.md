@@ -61,7 +61,7 @@ Narrative: I would like to call for the action of spending time on non-phone act
 ## User research 
 ### Protocol
 - Goal: learn from different perspectives to make sure my visualizations are readable and understand
-- Target audience: the audience will be students who usually feel satisfied when doing phone activities, but also feel those are not the things they truly want to do, and are curious about why they will have these contradictory feelings.
+- Target audience: the audience will be students who spend a lot of time on their phones everyday.
 - Method: I will talk with people around me from different backgrounds and then make an in-person or remote interview or have them fill out a survey. 
 - Estimated time: 15 minutes
 -	Format: in-person/remote/survey
@@ -109,7 +109,7 @@ For the chart on page 3, at first glance, I would think that the light blue and 
 - Is there anything you would change or do differently?
 
 It would be helpful if you could explain what positive and negative correlations mean. 
-In addition, for the chart on page 3, as there are a lot of data, the most obvious ones can be highlighted. For example, sleep, sports and social are useful for happiness, while listening to music and the internet will adversely affect happiness.
+In addition, for the chart on page 4, as there are a lot of data, the most obvious ones can be highlighted. For example, sleep, sports and social are useful for happiness, while listening to music and the internet will adversely affect happiness.
 
 #### Participant 3: Male, student, early 20's
 - Who do you think the intended audience is? 
@@ -135,7 +135,7 @@ In the second and third graphs, the description and units of the x-axis and y-ax
 ### Findings
 #### Patterns
 
-Participants could clearly tell that the type of visualization and its message, had the same guess on the intended audience, and shared the same concern about the bar chart on page 3. They also provided different recommendations on the design and the content, including changing colors, adding descriptions, and updating the data. 
+Participants could clearly tell that the type of visualization and its message, had the same guess on the intended audience, and shared the same concern about the bar chart on page 4. They also provided different recommendations on the design and the content, including changing colors, adding descriptions, and updating the data. 
 
 #### Learned from feedback
 
@@ -143,11 +143,10 @@ I learned my visualization was able to convey the message as it was supposed to.
 
 #### Changes
 ##### Changes made
-
 - Added descriptions: although having a basic sense of what the message of the visualization was conveying, the participants were not completely sure about it. I added a few lines of descriptions to try to make the visualizations look more readable and understandable.
-- Changed the bar chart on page 3 from stacked to grouped: the participants found that stacked bars made them feel confused and took them some time to figure out how the numbers came out. I, therefore, changed it to grouped bar chart to make it look easier to understand. 
-- Changed colors of the bar chart on page 7: the participants thought using contrast colors would be helpful for showing the comparison between non-phone and phone activities, so I changed the colors to blue and red. Also, the participants thought there were too many activities on the y-axis, and would be helpful if highlighted the most impactful ones. Therefore, I used darker blue and red for the top three activities of each category and lighter blue and red for the rest. 
+- Changed the bar chart on page 4 from stacked to grouped: the participants found that stacked bars made them feel confused and took them some time to figure out how the numbers came out. I, therefore, changed it to grouped bar chart to make it look easier to understand. 
 - Added a highlight of the year of iPhone was released to the line chart on page 5
+- Changed colors of the bar chart on page 7: the participants thought using contrast colors would be helpful for showing the comparison between non-phone and phone activities, so I changed the colors to blue and red. Also, the participants thought there were too many activities on the y-axis, and would be helpful if highlighted the most impactful ones. Therefore, I used darker blue and red for the top three activities of each category and lighter blue and red for the rest. 
 
 ##### Changes will be made in the near future
 - Try to find some more updated data: the participants noticed that most of the data I am using was from a few years ago and thought that would be more convincing if I could find some more recent data. It will take time to find this kind of data and I will try to update the data in the near future. 
