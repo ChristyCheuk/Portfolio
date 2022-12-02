@@ -1,7 +1,33 @@
 # Final Project Part II: Wireframes and User Research
+## Progress
+#### Decide a topic - Done
+- Find a topic that I am interested in or closely related to my daily life that I would like to say 
+- Decide who the audience will be 
+
+#### Research on the topic - Done
+- Make sure its data is accessible 
+
+#### Sketches - Done
+- Brainstorm what I would like to put in the final design 
+
+#### Collect feedback – Done
+
+#### Revise based on feedback – Done
+-	Organize the feedback by trying to find patterns
+-	Reflect on what I learned from the feedback 
+-	Come up with changes I would make the most sense in the final design 
+
+#### Deliver the final design – by December 8 
+-	Use flourish/Tableau to refine the design
+-	Use shorthand to build the story 
+
 
 ## Wireframe and storyboard
-
+As a reader, I want to find long-term contentment so that I can get real happiness. I can do this by spending less time on the phone and more time on non phone activities. I will be showing:
+- the difference between pleasure and happiness associated with dopamine and serotonin respectively
+- how the phone make our life
+- spending time on non phone activities can bring more happiness than the phone can
+- call for the action of spending time on non phone activities instead of on the phone
 
 ### Page 1 - Cover Page
 ![IMG_0414](https://user-images.githubusercontent.com/116990977/205186471-6dfcdcf0-f1f0-4aa4-bf42-0d198466ec33.PNG)
@@ -33,8 +59,15 @@ Narrative: Because of serotonin and dopamine, spending time on something meaning
 
 
 ## User research 
-### 
-#### Participant 1: Female, adult, late 50's
+### Protocol
+- Target audience: the audience will be students who usually feel satisfied when doing phone activities, but also feel those are not the things they truly want to do, and curious about why they will have these contradictory feelings.
+- Method: I will talk with people around me from different backgrounds and then make an in-person or remote interview or have them filled out a survey. 
+- Estimated time: 15 minutes
+-	Format: in-person/remote/survey
+-	Prompts: What do you think this is? What is this telling you? Is there anything you find surprising or confusing? Is there anything you would change or do differently? 
+
+### Participants
+#### Participant 1: Female, student, early 20's
 - Who do you think is the intended audience for this?
 
 The audience should be teenagers.
@@ -98,7 +131,7 @@ The first graph surprised me. From the graph, I understand that as time goes by,
 
 In the second and third graphs, the description and units of the x-axis and y-axis can be added.
 
-## Feedback
+## Findings
 ### Patterns
 
 Participants could clearly tell that the type of visualization and its message, had the same guess on the intended audience, and shared the same concern about the bar chart on page 3. They also provided different recommendations on the design and the content, including changing colors and adding descritpions. 
@@ -108,12 +141,16 @@ Participants could clearly tell that the type of visualization and its message, 
 I learned my visualization was able to convey the message as it was supposed to. However, there were some places that I would need to make more clarification to make it more understandable from the audience’s perspective. 
 
 ### Changes
+#### Changes made
 - Changed colors
 - Added descriptions
-- 
-
+- Changed the bar chart on page 3 from stacked to grouped
+#### Changes will be made in the near future
+- Find some more updated data
 
 ## Sources:
-1. https://worldhappiness.report/ed/2019/the-sad-state-of-happiness-in-the-united-states-and-the-role-of-digital-media/
-2. https://www.statista.com/chart/3666/frequency-of-smartphone-usage/
-
+1. Richter, Felix. “Infographic: America's Growing Smartphone Addiction.” Statista Infographics, 23 July 2015, https://www.statista.com/chart/3666/frequency-of-smartphone-usage/. 
+2. “The Sad State of Happiness in the United States and the Role of Digital Media.” The Sad State of Happiness in the United States and the Role of Digital Media | The World Happiness Report, https://worldhappiness.report/ed/2019/the-sad-state-of-happiness-in-the-united-states-and-the-role-of-digital-media/. 
+3. Admin. “Dopamine, Smartphones &amp; You: A Battle for Your Time.” Science in the News, 4 Feb. 2021, https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/. 
+4. Brueck, Hilary. “This Is Why Our Phones Are Making Us Miserable: Happiness Isn't the Same Thing as Pleasure, and Our Brain Knows It.” Business Insider, Business Insider, https://www.businessinsider.com/why-our-phones-are-making-us-miserable-pleasure-isnt-happiness-2018-3. 
+5. “Constant Craving: How Digital Media Turned Us All into Dopamine Addicts.” The Guardian, Guardian News and Media, 22 Aug. 2021, https://www.theguardian.com/global/2021/aug/22/how-digital-media-turned-us-all-into-dopamine-addicts-and-what-we-can-do-to-break-the-cycle. 
