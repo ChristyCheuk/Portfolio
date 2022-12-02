@@ -132,24 +132,24 @@ The first graph surprised me. From the graph, I understand that as time goes by,
 
 In the second and third graphs, the description and units of the x-axis and y-axis can be added.
 
-## Findings
-### Patterns
+### Findings
+#### Patterns
 
 Participants could clearly tell that the type of visualization and its message, had the same guess on the intended audience, and shared the same concern about the bar chart on page 3. They also provided different recommendations on the design and the content, including changing colors, adding descritpions and updating the data. 
 
-### Learned from feedback
+#### Learned from feedback
 
 I learned my visualization was able to convey the message as it was supposed to. However, there were some places that I would need to make more clarification to make it more understandable from the audience’s perspective. 
 
-### Changes
-#### Changes made
+#### Changes
+##### Changes made
 
 - Added descriptions: although having a basic sense of what the message of the visualization was conveying, the participatns were not completely sure about it. I added a few lines of descriptions to try to make the visualizations look more readable and understand.
 - Changed the bar chart on page 3 from stacked to grouped： the participants found that stacked bars made them feel confused and took them some time to figure out how the numbers came out. I therefore changed the bar chart to grouped to make it look more easy to understand. 
 - Changed colors of the bar chart on page 7: the participants thought using contrast colors would be helpful for showing the comparsion between non phone and phone activities, so I changed the colors to blue and red. Also, the participants thought there were too many activities on the y-axis and would be helpful if highlighting the most impactful ones. Therefore, I used darker blue and red for the top three activities of each catergory and lighter blue and red for the rest. 
 - Added a highlight at the year of iPhone released to the line chart on page 5
 
-#### Changes will be made in the near future
+##### Changes will be made in the near future
 - Try to find some more updated data: the participants noticed that most of data I am using was a few years ago and thought that would be more convincible if I could find some more recent data. It will take time to find this kind of data and I will try to update the data in the near future. 
 
 
