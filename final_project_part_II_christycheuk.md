@@ -34,7 +34,7 @@ As a reader, I want to find long-term contentment so that I can get real happine
 Narrative: “Happiness” and “Pleasure” may have subtle language differences but huge chemical differences. 
 
 ### Page 2
-![IMG_0416](https://user-images.githubusercontent.com/116990977/205186482-36558555-4bf1-4890-b251-fa3a750c465d.PNG)
+![IMG_3434A452B053-1](https://user-images.githubusercontent.com/116990977/205348841-ef85f68f-fabf-447f-b986-aa431e6a1137.jpeg)
 Narrative: Our brain has two different parts: serotonin deal with happiness, and dopamine deals with pleasure. The former is associated with long-term contentment from activities such as non-phone activities. It makes the brain feel good and that is enough. On the other hand, the latter is associated with short-term rewards and motivation from activities such as phone activities. It makes the brain feel good and wants more and therefore easy to leads to addiction. 
 
 ### Page 3
