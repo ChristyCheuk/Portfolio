@@ -1,36 +1,119 @@
-Final Project Part II: Wireframes and User Research
+# Final Project Part II: Wireframes and User Research
 
-1. cover page
+## Wireframe and storyboard
+
+
+### Page 1 - Cover Page
 ![IMG_0414](https://user-images.githubusercontent.com/116990977/205186471-6dfcdcf0-f1f0-4aa4-bf42-0d198466ec33.PNG)
+Narrative: “Happiness” and “Pleasure” may have subtle language differences but huge chemical differences. 
 
-2.
+### Page 2
 ![IMG_0416](https://user-images.githubusercontent.com/116990977/205186482-36558555-4bf1-4890-b251-fa3a750c465d.PNG)
-Source: https://worldhappiness.report/ed/2019/the-sad-state-of-happiness-in-the-united-states-and-the-role-of-digital-media/
+Narrative: Our brain has two different parts: serotonin deal with happiness, and dopamine deals with pleasure. The former is associated with long-term contentment from activities such as giving and sharing. It makes the brain feel good and that is enough. On the other hand, the latter is associated with short-term rewards and motivation from activities such as taking. It makes the brain feel good and wants more and therefore easy to leads to addiction. 
 
-3.
+### Page 3
 <div class="flourish-embed flourish-chart" data-src="visualisation/12028363"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Narrative: I tried to use a stacked bar chart to show my last week phone activities based on my phone screen time and found that I spent 6 hours, one forth of a day on entertainment on average. 
 
-4.
+### Page 4
 <div class="flourish-embed flourish-chart" data-src="visualisation/12015562"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Source: https://www.statista.com/chart/3666/frequency-of-smartphone-usage/
+Narrative: I am not the only one spending most of the time of a day on phone. 73% of America's 18- to 29-year-olds have to check on their phones at least several times an hour and of those, 22% have to check on their phones every few minutes. 
 
-5. 
-<div class="flourish-embed flourish-chart" data-src="visualisation/12027686"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-6.
-<div class="flourish-embed flourish-chart" data-src="visualisation/12021246"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Source: https://worldhappiness.report/ed/2019/the-sad-state-of-happiness-in-the-united-states-and-the-role-of-digital-media/
-
-7. 
+### Page 5 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12022456"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Source: https://worldhappiness.report/ed/2019/the-sad-state-of-happiness-in-the-united-states-and-the-role-of-digital-media/
+Narrative: 2007 is the year of iPhone released and at the same year, we can see that the happiness scale slides down to the bottom.
 
-Who do you think is the intended audience for this?
+### Page 6
+<div class="flourish-embed flourish-chart" data-src="visualisation/12021246"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Narrative: Following up on the previous chart, the more time we spend on phones, the less happiness we will have. 
 
-What do you think this is?
+### Page 7 
+<div class="flourish-embed flourish-chart" data-src="visualisation/12027686"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Narrative: Because of serotonin and dopamine, spending time on something meaningful can bring more happiness than phones can. This bar chart shows the comparsion of non phone and phone activities. There is a positive correlation between non phone activities and happiness and a negative correlation between phone activities and happiness. Therefore, I would liek to call for the action of spending time on non phone activities instead of phone activities. 
 
-What is this telling you?
 
-Is there anything you find surprising or confusing?
+## User research 
+### 
+#### Participant 1: Female, adult, late 50's
+- Who do you think is the intended audience for this?
 
-Is there anything you would change or do differently?
+The audience should be teenagers.
+
+- What do you think this is?
+
+I think this is pretty cleary that these are different types/versions of charts. 
+
+- What is this telling you?
+
+I think this is trying to tell me that pleasure is different with happiness. What we get from using phones is simiply pleasure but not happiness. Therefore, we should focus less on phone activities but more on non phone activities. 
+
+- Is there anything you find surprising or confusing?
+
+I like the way you visualize pleasure and happiness and associated dopamine and serotonin in the brian. I am a bit confused about the fourth chart though. It took me some time to figure out it should be a percentage and how the number came out. 
+
+- Is there anything you would change or do differently?
+
+I feel like it would be great if you could add some descriptions about what "correlation" in those graphs. Also, I would probably change the color of the last chart if you wanted to show the contrast between non phone activities and phone activities. 
+
+#### Participant 2: Male, student, mid 20's
+- Who do you think is the intended audience for this?
+
+The audience should be teenagers. However, I couldn't hundred percent sure about who your intended audience would be before I saw the fourth graph. It could be helpful if you could point it out directly at the beginning.
+
+- What do you think this is?
+
+Different charts.
+
+- What is this telling you?
+
+The negative correlation between using the phone and happiness. 
+
+- Is there anything you find surprising or confusing?
+
+For the chart on page 3, at first glance, I would think that the light blue and dark blue are independent, rather than the latter containing the former relationship.
+
+- Is there anything you would change or do differently?
+
+It would be helpful if you could explain what positive and negative correlation mean. 
+In addition, for the chart on page 3, as there are a lot of data, the most obvious ones can be highlighted. For example, sleep, sports and social are useful for happiness, while listening to music and the internet will adversely affect happiness.
+
+#### Participant 3: Male, student, early 20's
+- Who do you think the intended audience is? 
+
+The main audience for this data analysis is teenagers and young adults because the second picture mentions 18-29 years old, and the third picture mentions grades 8 to 10.
+
+- What do you think this is?
+
+Different types of charts including column chart, bar chart and line chart. 
+
+- What is this telling you?
+
+The number and duration of using mobile phones may affect people's happiness index.
+
+- Is there anything you find surprising or confusing?
+
+The first graph surprised me. From the graph, I understand that as time goes by, the overall "Happiness" index decreases, and there is a clear contrast with the number of times you use your phone. However, happiness may be related to the economic environment and social environment. For example, the financial crisis in 2008 caused "Happiness" to plummet. After the economy entered quantitative easing, the economy gradually recovered, so "Happiness" skyrocketed.
+
+- Is there anything you would change or do differently?
+
+In the second and third graphs, the description and units of the x-axis and y-axis can be added.
+
+## Feedback
+### Patterns
+
+Participants could clearly tell that the type of visualization and its message, had the same guess on the intended audience, and shared the same concern about the bar chart on page 3. They also provided different recommendations on the design and the content, including changing colors and adding descritpions. 
+
+### Learned from feedback
+
+I learned my visualization was able to convey the message as it was supposed to. However, there were some places that I would need to make more clarification to make it more understandable from the audience’s perspective. 
+
+### Changes
+- Changed colors
+- Added descriptions
+- 
+
+
+## Sources:
+1. https://worldhappiness.report/ed/2019/the-sad-state-of-happiness-in-the-united-states-and-the-role-of-digital-media/
+2. https://www.statista.com/chart/3666/frequency-of-smartphone-usage/
+
