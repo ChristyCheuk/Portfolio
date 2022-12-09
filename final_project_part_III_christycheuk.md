@@ -1,4 +1,26 @@
 # Final Project Part III: Final project and presentation
+## Progress
+#### Decide a topic - Done
+- Find a topic that I am interested in or closely related to my daily life that I would like to say 
+- Decide who the audience will be 
+
+#### Research on the topic - Done
+- Make sure its data is accessible 
+
+#### Sketches - Done
+- Brainstorm what I would like to put in the final design 
+
+#### Collect feedback – Done
+
+#### Revise based on feedback – Done
+-	Organize the feedback by trying to find patterns
+-	Reflect on what I learned from the feedback 
+-	Come up with changes I would make the most sense in the final design 
+
+#### Deliver the final design – Done 
+-	Use Flourish to refine the design
+-	Use Shorthand to build the story 
+
 ## Summary
 ### Changes made since the completion of Part II
 One change I had worked on since the completion of part II was to try to find some more updated data. Based on the feedback I received from part II, the participants noticed that the data I was using was from a few years ago and thought that could be more helpful for presenting the topic if I could find some more recent data. It was unfortunate that I had not been able to find some new data via public access source, so I kept the current data. 
