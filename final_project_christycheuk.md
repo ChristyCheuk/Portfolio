@@ -1,6 +1,4 @@
 # Final Project
-[Final project Part I](final_project_christycheuk.md)
-
 [Final project Part II: Wireframe and User Research](/final_project_part_II_christycheuk.md)
 
 [Final project Part III: Final Project and Presentation](/final_project_part_III_christycheuk.md)
