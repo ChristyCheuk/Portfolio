@@ -24,8 +24,4 @@ I hope to become a data analyst that is able to provide valuable insights for cl
 [Critique by design](/dataviz3&4.md)
 
 ## Final project
-[Final project Part I](/final_project_christycheuk.md)
-
-[Final project Part II: Wireframe and User Research](/final_project_part_II_christycheuk.md)
-
-[Final project Part III: Final Project and Presentation](/final_project_part_III_christycheuk.md)
+[Final project](/final_project_christycheuk.md)
