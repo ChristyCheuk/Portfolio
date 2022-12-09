@@ -44,7 +44,7 @@ Working through the process, I learned how to think from a different persona. I 
 
 
 ## Shorthand
-(https://carnegiemellon.shorthandstories.com/index.html)
+[Data Story](https://carnegiemellon.shorthandstories.com/index.html)
 
 
 ## Sources:
