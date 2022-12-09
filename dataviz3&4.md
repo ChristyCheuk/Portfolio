@@ -1,5 +1,5 @@
 # Critique by Design
-### Original design
+## Original design
 I chose this visualization because I was impressed by the creativity of using avocado toasts instead of money to show how expensive or inexpensive an apartment can be. It is an interesting visualization to look at. I like its colors and how it tries to make everything concrete by putting avocado toast, a dollar bill, and the iconic buildings of the cities. In addition, the housing market is usually a dull topic for me. Using avocado toasts instead of traditional charts can not only bring in a new perspective of how the home prices are like nowadays but also makes it more related to my daily life and therefore attract me to learn more about it. Another reason I chose this visualization is that I wanted to make it more comparable. The visualization was divided into five parts. I had to scroll up and down to go through the entire visualization and to make comparisons between different countries.
 
 ![1](https://user-images.githubusercontent.com/116990977/202356011-597259a9-1d78-40c9-b4b3-aed49c3d277e.png)
