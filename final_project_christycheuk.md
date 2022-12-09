@@ -1,4 +1,4 @@
-# Final Project
+# Final Project Part I
 ## Progress
 #### Decide a topic - Done
 - Find a topic that I am interested in or closely related to my daily life that I would like to say 
@@ -22,8 +22,8 @@
 -	Come up with changes I would make the most sense in the final design 
 
 #### Deliver the final design – by December 8 
--	Use flourish/Tableau to refine the design
--	Use shorthand to build the story 
+-	Use Flourish/Tableau to refine the design
+-	Use Shorthand to build the story 
 
 
 ## Outline
