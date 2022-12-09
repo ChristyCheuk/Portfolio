@@ -19,7 +19,7 @@ Source: “The Avocado Toast Index: How Many Breakfasts to Buy a House?” BBC W
 
 Participant 1 could clearly tell that it was a bar chart and a pretty straightforward visualization saying how many avocado toasts cost to buy an apartment. She also mentioned that avocado toasts here should be playing pretty much the same role as money. In this case, Hong Kong is the most one. She was pretty surprised that putting avocado toast and the housing market together. One thing that looks interesting to her was that it was hard for her to imagine that in Hong Kong, the apartment deposit that cost almost $400k only needed less than 50k pieces of avocado toast. She was a bit doubtful about the data source though. She guessed the intended audience should be whoever was interested in studying the global housing market or loved avocado toasts. She would probably change the colors as they did not remind her of a lot of avocado toasts.  
 
-## Participant 2: Male, student, late 10's
+#### Participant 2: Male, student, late 10's
 
 Participant 1 could clearly tell that it was a bar chart and Hong Kong had the highest average apartment deposit and therefore needs the most avocado toasts. However, he mentioned that he could not see when the data was published. He was also a bit confused about why I would want to put these two objects together as they look irrelated to him. He guessed the intended audience should be someone who wanted to learn more about the world's home prices in a different way. He would add lines or numbers next to each bar because he mentioned that he was keeping putting his finger up and down to try to connect the bars and the values at the bottom. 
 
