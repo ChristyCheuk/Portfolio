@@ -27,7 +27,7 @@
 -	Use Shorthand to build the story 
 
 ## Shorthand
-[Data Story](https://carnegiemellon.shorthandstories.com/index.html)
+[Shorthand](https://carnegiemellon.shorthandstories.com/index.html)
 
 ## Summary
 ### Changes made since the completion of Part II
