@@ -26,7 +26,7 @@
 -	Use Flourish to refine the design
 -	Use Shorthand to build the story 
 
-## Shorthand
+## Final data story
 [Shorthand](https://carnegiemellon.shorthandstories.com/index.html)
 
 ## Summary
