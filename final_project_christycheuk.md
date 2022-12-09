@@ -1,4 +1,8 @@
 # Final Project Part I
+[Final project Part II: Wireframe and User Research](/final_project_part_II_christycheuk.md)
+
+[Final project Part III: Final Project and Presentation](/final_project_part_III_christycheuk.md)
+
 ## Progress
 #### Decide a topic - Done
 - Find a topic that I am interested in or closely related to my daily life that I would like to say 
