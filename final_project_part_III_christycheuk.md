@@ -1,3 +1,8 @@
+# Final Project
+[Final project Part I](final_project_christycheuk.md)
+
+[Final project Part II: Wireframe and User Research](/final_project_part_II_christycheuk.md)
+
 # Final Project Part III: Final project and presentation
 ## Progress
 #### Decide a topic - Done
