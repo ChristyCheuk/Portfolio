@@ -26,6 +26,9 @@
 -	Use Flourish to refine the design
 -	Use Shorthand to build the story 
 
+## Shorthand
+[Data Story](https://carnegiemellon.shorthandstories.com/index.html)
+
 ## Summary
 ### Changes made since the completion of Part II
 One change I had worked on since the completion of part II was to try to find some more updated data. Based on the feedback I received from part II, the participants noticed that the data I was using was from a few years ago and thought that could be more helpful for presenting the topic if I could find some more recent data. It was unfortunate that I had not been able to find some new data via public access source, so I kept the current data. 
@@ -46,10 +49,6 @@ After finalizing what I was going to include, I started working on the data visu
 One of the most important decisions I had to make along the way was to leverage the visualizations and the messages. For example, if there was a visualization I prefer but it was not the best fit for the message, should I try to make an adjustment to it to make it fit into the message or should I choose a more suitable visualization? In this case, I would make the final decision based on how it looks like from the audience's perspective, such as which one would make the message to be more readable and understandable? If I was the audience, would I like this visualization or the other?
 
 Working through the process, I learned how to think from a different persona. I had to keep switching roles between an author and an audience by imagining myself having no knowledge about the topic. Therefore, I would have to add related information including a clear headline, labels, descriptions, and narratives to the visualizations readable and understandable. However, I had to keep all the elements within an appropriate range, so the visualizations would not look too busy to the audience. 
-
-
-## Shorthand
-[Data Story](https://carnegiemellon.shorthandstories.com/index.html)
 
 
 ## Sources:
