@@ -26,9 +26,6 @@
 -	Use Flourish to refine the design
 -	Use Shorthand to build the story 
 
-## Final data story
-[Shorthand](https://carnegiemellon.shorthandstories.com/index.html)
-
 ## Summary
 ### Changes made since the completion of Part II
 One change I had worked on since the completion of part II was to try to find some more updated data. Based on the feedback I received from part II, the participants noticed that the data I was using was from a few years ago and thought that could be more helpful for presenting the topic if I could find some more recent data. It was unfortunate that I had not been able to find some new data via public access source, so I kept the current data. 
@@ -50,6 +47,8 @@ One of the most important decisions I had to make along the way was to leverage 
 
 Working through the process, I learned how to think from a different persona. I had to keep switching roles between an author and an audience by imagining myself having no knowledge about the topic. Therefore, I would have to add related information including a clear headline, labels, descriptions, and narratives to the visualizations readable and understandable. However, I had to keep all the elements within an appropriate range, so the visualizations would not look too busy to the audience. 
 
+## Final Design
+[Shorthand](https://carnegiemellon.shorthandstories.com/index.html)
 
 ## Sources:
 1. Admin. “Dopamine, Smartphones &amp; You: A Battle for Your Time.” Science in the News, 4 Feb. 2021, https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/. 
