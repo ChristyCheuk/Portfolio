@@ -42,7 +42,9 @@ Based on the feedback, I made some changes:
 In addition to the user feedback, I also made an additional adjustment. I added a legend so if the users want to focus on either one set of data, they can easily filter out the other one. 
 
 ## Final desgin
-Why and what I would like to show
+<div class="flourish-embed flourish-chart" data-src="visualisation/11837870"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Why and what I would like to show
 I selected a bar chart because I want to see the comparison of the average apartment deposit and the number of avocado toasts in 10 cities around the world. It is one of the most effective tools to compare data in a readable and understandable format. With the bar chart, I would like to show a few things and  make it more comparable as I mentioned above: 
 - Comparison between avocado toasts and an apartment: putting two color bars together, the audience should be able to compare avocado toasts that are close to our daily life to the deposit that is relatively far away from our daily life and therefore can provide them a more concrete idea of how the deposit looks like, such as is it high or low? Take Hong Kong as an example. Moving the cursor to the bar, they will be able to see a pop-up window showing the average avocado toast price is $14/piece. If we save money on 26,858 pieces of avocado toast, we will get $376,011 and will be able to get to pay for a 20% apartment deposit. In other words, 26,858 pieces of avocado toast equal an apartment deposit.
 - Show from the highest to the lowest average apartment deposit in 10 cities around the world: with the legend, the audience is able to filter out the number of avocado toasts to focus on the average apartment. The visualization will be able to provide them with a quick sense of which city has the highest home price and which city has the lowest home price. 
@@ -51,5 +53,3 @@ I selected a bar chart because I want to see the comparison of the average apart
 Also, there are a few things I attempted to do differently with the original design:
 - Completeness: the original design is divided into five parts. I combined all five parts into one bar chart so the audience can see everything at a time and have a quick sense of the highest and lowest ones.
 - Truthfulness: a few paragraphs are describing the data resources and the calculations outside the original. However, if we simply look at the visualization, we cannot really find any. Also, it does not include when the data is: is it based on new or old data? I added a few lines of descriptions to briefly describe where the data was from to make it more trustworthy. I also added some background information briefly describing why putting avocado toast and an apartment together.
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/11837870"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
