@@ -27,15 +27,15 @@
 -	Use Shorthand to build the story 
 
 ## Summary
+### Target Audience
+The audience will be students who spend a lot of time on their phones. I would like to call for action for spending time on non-phone activities instead of phone activities.
+
 ### Changes made since the completion of Part II
 One change I had worked on since the completion of part II was to try to find some more updated data. Based on the feedback I received from part II, the participants noticed that the data I was using was from a few years ago and thought that could be more helpful for presenting the topic if I could find some more recent data. It was unfortunate that I had not been able to find some new data via public access source, so I kept the current data. 
 
 I made a few additional changes in addition to the feedback. In the My Weekly Phone Activities chart, my phone activities were grouped into six categories according to my phone screen time report. It might not be clear enough for the audience to find out what was under each category, so I added some narratives. Also, I found an interesting conclusion from the World Happiness Report stating the relationships between happiness and electric devices, so I added it to my story. 
 
 After finalizing all the elements I would put into my story, I used Shorthand for my story.  
-
-### Target Audience
-The audience will be students who spend a lot of time on their phones. I would like to call for action for spending time on non-phone activities instead of phone activities.
 
 ### Information used and adjustments made
 There was a large portion of my story talked about three sub-topics: dopamine and serotonin, pleasure and happiness, and phone and non-phone activities. I talked with the people (students) around me that spent a lot of time on phone activities such as using social media or watching TV shows based on my acquaintance with them. After receiving the participants' feedback, it seemed to them that there was too much content. They suggested even though it was logical to explain how the relationships between these three sub-topics, it was not necessary to go too deep into how dopamine and serotonin worked biologically. Briefly explaining how dopamine and serotonin were associated with the latter two topics and then focusing on the relationships between the latter two topics would be more helpful for clearly bringing out the main topic. That was a big change I made to narrow the content. 
